@@ -165,7 +165,7 @@ typings/
 # Provided default Pycharm Run/Debug Configurations should be tracked by git
 # In case of local modifications made by Pycharm, use update-index command
 # for each changed file, like this:
-# git update-index --assume-unchanged .idea/pycon_portugal_2022.iml
+# git update-index --assume-unchanged .idea/pycon_pt_2022.iml
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
@@ -323,14 +323,10 @@ Session.vim
 tags
 
 ### Project template
-pycon_portugal_2022/media/
+pycon_pt_2022/media/
 
 .pytest_cache/
-.ipython/
 project.css
 project.min.css
 vendors.js
 *.min.js
-.env
-.envs/*
-!.envs/.local/

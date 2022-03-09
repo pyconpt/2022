@@ -1,7 +1,0 @@
-# PostgreSQL
-# ------------------------------------------------------------------------------
-POSTGRES_HOST=postgres
-POSTGRES_PORT=5432
-POSTGRES_DB=pycon_portugal_2022
-POSTGRES_USER=waUusthnAqRXFjjdFNPRukoVtTQEzVEs
-POSTGRES_PASSWORD=7pbeTdim4Sr3ehM8mNKdGgxsQOv8Esho1tfwQaYsAYCfGGD6CbKSklFKwY8LYJI6

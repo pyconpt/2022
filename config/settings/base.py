@@ -6,8 +6,8 @@ from pathlib import Path
 import environ
 
 ROOT_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
-# pycon_portugal_2022/
-APPS_DIR = ROOT_DIR / "pycon_portugal_2022"
+# pycon_pt_2022/
+APPS_DIR = ROOT_DIR / "pycon_pt_2022"
 env = environ.Env()
 
 READ_DOT_ENV_FILE = env.bool("DJANGO_READ_DOT_ENV_FILE", default=False)
@@ -23,7 +23,7 @@ DEBUG = env.bool("DJANGO_DEBUG", False)
 # http://en.wikipedia.org/wiki/List_of_tz_zones_by_name
 # though not all of them may be available with every OS.
 # In Windows, this must be set to your system time zone.
-TIME_ZONE = "WET"
+TIME_ZONE = "UTC"
 # https://docs.djangoproject.com/en/dev/ref/settings/#language-code
 LANGUAGE_CODE = "en-us"
 # https://docs.djangoproject.com/en/dev/ref/settings/#site-id
@@ -40,7 +40,13 @@ LOCALE_PATHS = [str(ROOT_DIR / "locale")]
 # DATABASES
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#databases
-DATABASES = {"default": env.db("DATABASE_URL")}
+
+DATABASES = {
+    "default": env.db(
+        "DATABASE_URL",
+        default="postgres:///pycon_pt_2022",
+    ),
+}
 DATABASES["default"]["ATOMIC_REQUESTS"] = True
 # https://docs.djangoproject.com/en/stable/ref/settings/#std:setting-DEFAULT_AUTO_FIELD
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
@@ -74,7 +80,7 @@ THIRD_PARTY_APPS = [
 ]
 
 LOCAL_APPS = [
-    "pycon_portugal_2022.users",
+    "pycon_pt_2022.users",
     # Your stuff: custom apps go here
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
@@ -83,7 +89,7 @@ INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 # MIGRATIONS
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#migration-modules
-MIGRATION_MODULES = {"sites": "pycon_portugal_2022.contrib.sites.migrations"}
+MIGRATION_MODULES = {"sites": "pycon_pt_2022.contrib.sites.migrations"}
 
 # AUTHENTICATION
 # ------------------------------------------------------------------------------
@@ -178,7 +184,7 @@ TEMPLATES = [
                 "django.template.context_processors.static",
                 "django.template.context_processors.tz",
                 "django.contrib.messages.context_processors.messages",
-                "pycon_portugal_2022.users.context_processors.allauth_settings",
+                "pycon_pt_2022.users.context_processors.allauth_settings",
             ],
         },
     }
@@ -261,13 +267,13 @@ ACCOUNT_EMAIL_REQUIRED = True
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
 ACCOUNT_EMAIL_VERIFICATION = "mandatory"
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
-ACCOUNT_ADAPTER = "pycon_portugal_2022.users.adapters.AccountAdapter"
+ACCOUNT_ADAPTER = "pycon_pt_2022.users.adapters.AccountAdapter"
 # https://django-allauth.readthedocs.io/en/latest/forms.html
-ACCOUNT_FORMS = {"signup": "pycon_portugal_2022.users.forms.UserSignupForm"}
+ACCOUNT_FORMS = {"signup": "pycon_pt_2022.users.forms.UserSignupForm"}
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
-SOCIALACCOUNT_ADAPTER = "pycon_portugal_2022.users.adapters.SocialAccountAdapter"
+SOCIALACCOUNT_ADAPTER = "pycon_pt_2022.users.adapters.SocialAccountAdapter"
 # https://django-allauth.readthedocs.io/en/latest/forms.html
-SOCIALACCOUNT_FORMS = {"signup": "pycon_portugal_2022.users.forms.UserSocialSignupForm"}
+SOCIALACCOUNT_FORMS = {"signup": "pycon_pt_2022.users.forms.UserSocialSignupForm"}
 
 
 # Your stuff...

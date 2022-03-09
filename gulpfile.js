@@ -100,12 +100,9 @@ function initBrowserSync() {
       `${paths.js}/*.js`,
       `${paths.templates}/*.html`
     ], {
-      // https://www.browsersync.io/docs/options/#option-open
-      // Disable as it doesn't work from inside a container
-      open: false,
       // https://www.browsersync.io/docs/options/#option-proxy
       proxy:  {
-        target: 'django:8000',
+        target: '127.0.0.1:8000',
         proxyReq: [
           function(proxyReq, req) {
             // Assign proxy "host" header same as current request at Browsersync server
@@ -133,6 +130,7 @@ const generateAssets = parallel(
 
 // Set up dev environment
 const dev = parallel(
+  runServer,
   initBrowserSync,
   watchPaths
 )

@@ -10,7 +10,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=_source
 set BUILDDIR=_build
-set APP=..\pycon_portugal_2022
+set APP=..\pycon_pt_2022
 
 if "%1" == "" goto help
 

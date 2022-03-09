@@ -24,8 +24,8 @@ if __name__ == "__main__":
         raise
 
     # This allows easy placement of apps within the interior
-    # pycon_portugal_2022 directory.
+    # pycon_pt_2022 directory.
     current_path = Path(__file__).parent.resolve()
-    sys.path.append(str(current_path / "pycon_portugal_2022"))
+    sys.path.append(str(current_path / "pycon_pt_2022"))
 
     execute_from_command_line(sys.argv)

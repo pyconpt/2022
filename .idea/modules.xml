@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pycon_portugal_2022.iml" filepath="$PROJECT_DIR$/.idea/pycon_portugal_2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pycon_pt_2022.iml" filepath="$PROJECT_DIR$/.idea/pycon_pt_2022.iml" />
     </modules>
   </component>
 </project>

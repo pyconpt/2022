@@ -4,13 +4,14 @@ How To - Project Documentation
 Get Started
 ----------------------------------------------------------------------
 
-Documentation can be written as rst files in `pycon_portugal_2022/docs`.
+Documentation can be written as rst files in `pycon_pt_2022/docs`.
 
 
-To build and serve docs, use the commands::
+To build and serve docs, use the command::
     
-    docker-compose -f local.yml up docs
-
+    make livehtml 
+    
+from inside the `pycon_pt_2022/docs` directory. 
 
 
 Changes to files in `docs/_source` will be picked up and reloaded automatically.
@@ -31,8 +32,3 @@ To compile all docstrings automatically into documentation source files, use the
     
         make apidocs
 
-
-This can be done in the docker container:
-    :: 
-        
-        docker run --rm docs make apidocs
