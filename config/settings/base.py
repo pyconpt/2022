@@ -82,6 +82,7 @@ THIRD_PARTY_APPS = [
 LOCAL_APPS = [
     "pycon_pt_2022.users",
     # Your stuff: custom apps go here
+    "pycon_pt_2022.site"
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
@@ -185,6 +186,7 @@ TEMPLATES = [
                 "django.template.context_processors.tz",
                 "django.contrib.messages.context_processors.messages",
                 "pycon_pt_2022.users.context_processors.allauth_settings",
+                "pycon_pt_2022.site.context_processors.links"
             ],
         },
     }
