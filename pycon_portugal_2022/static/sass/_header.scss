@@ -3,8 +3,9 @@
 @use "base";
 
 .header {
-  padding: 1rem 2vw;
+  padding: 1rem;
   background: base.$BgBlue; //#003C80;
+  border-bottom: .5rem black solid;
 
   .header-margin {
     max-width: 160px;
