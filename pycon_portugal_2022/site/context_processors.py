@@ -3,51 +3,51 @@ def links(request):
     return {
         'home': '/home/',
         'site_menu': {
-            'Talks': {
-                'dropdown': 'true',
+            'TALKS': {
+                'dropdown': 'false',
                 'submenu': {
-                    'Schedule': '/talks/schedule/',
-                    'Cfp': '/talks/cfp/',
-                    'Selection process': '/talks/selection_process/',
+                    'SCHEDULE': '/talks/schedule/',
+                    'CFP': '/talks/cfp/',
+                    'SELECTION PROCESS': '/talks/selection_process/',
                 },
             },
-            'Information': {
+            'INFORMATION': {
                 'dropdown': 'true',
                 'submenu': {
-                    'Venue': '/information/venue/',
-                    'Swag bag': '/information/swag_bag/',
-                    'Grants': '/information/grants/',
-                    'Django girls': '/information/django_girls/',
-                    'Sprints': '/information/sprints/',
-                    'Announcements': '/information/announcements/',
+                    'VENUE': '/information/venue/',
+                    'SWAG BAG': '/information/swag_bag/',
+                    'GRANTS': '/information/grants/',
+                    'DJANGO GIRlS': '/information/django_girls/',
+                    'SPRINTS': '/information/sprints/',
+                    'ANNOUNCEMENTS': '/information/announcements/',
                 },
             },
-            'Sponsors': {
+            'SPONSORS': {
+                'dropdown': 'false',
+                'submenu': {
+                    'SPONSORS': '/sponsors/sponsors/',
+                    'CONTRIBUTORS': '/sponsors/contributors/',
+                    'SPONSORSHIP': '/sponsors/sponsorship/',
+                },
+            },
+            'CONDUCT': {
                 'dropdown': 'true',
                 'submenu': {
-                    'Sponsors': '/sponsors/sponsors/',
-                    'Contributors': '/sponsors/contributors/',
-                    'Sponsorship': '/sponsors/sponsorship/',
+                    'CODE OF CONDUCT': '/conduct/code_of_conduct/',
+                    'RESPONSE GUIDE': '/conduct/response_guide/',
+                    'PRIVACY GUIDE': '/conduct/privacy_guide/',
                 },
             },
-            'Conduct': {
-                'dropdown': 'true',
-                'submenu': {
-                    'Code of conduct': '/conduct/code_of_conduct/',
-                    'Response guide': '/conduct/response_guide/',
-                    'Privacy guide': '/conduct/privacy_guide/',
-                },
-            },
-            'Jobs': {
+            'JOBS': {
                 'dropdown': 'false',
                 'href': '/jobs/',
             },
-            'About': {
+            'ABOUT': {
                 'dropdown': 'true',
                 'submenu': {
-                    'Tickets': '/about/tickets/',
-                    'Contact': '/about/contact/',
-                    'Credits': '/about/credits/',
+                    'TICKETS': '/about/tickets/',
+                    'CONTACT': '/about/contact/',
+                    'CREDITS': '/about/credits/',
                 },
             },
         },

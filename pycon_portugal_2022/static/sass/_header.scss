@@ -3,7 +3,7 @@
 @use "base";
 
 .header {
-  padding: 2rem .25rem;
+  padding: 1rem 2vw;
   background: base.$BgBlue; //#003C80;
 
   .header-margin {
@@ -12,6 +12,15 @@
 
   .nav {
     max-width: 67.5rem;
+
+    a, a:hover {
+      text-decoration: none;
+    }
+
+    .nav-link {
+      font-size: 1.125rem/2rem;
+      font-weight: bold;
+    }
   }
 }
 
