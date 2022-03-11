@@ -17,12 +17,28 @@
     a, a:hover {
       text-decoration: none;
     }
-
     .nav-link {
       font-size: 1.125rem/2rem;
       font-weight: bold;
     }
   }
+  .header-logo {
+    padding:0rem 1rem;
+    align-self: center;
+    height: 3rem;
+  }
+  .button-primary {
+    padding: 0rem;
+  }
+  .navbar-toggler-noborder {
+    padding:0rem 1rem;
+  }
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28144, 206, 202, 1%29' stroke-linecap='round' stroke-miterlimit='15' stroke-width='3' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    height: 100%;
+    width: 2rem;
+  }
+
 }
 
 //@media (min-width: 425px) and (max-width: 992.125px) {
