@@ -4,7 +4,7 @@
 
 .header {
   padding: 1rem;
-  background: base.$BgBlue; //#003C80;
+  background: base.$BgBlue;
   border-bottom: .5rem black solid;
 
   .header-margin {
@@ -20,6 +20,12 @@
     .nav-link {
       font-size: 1.125rem/2rem;
       font-weight: bold;
+    }
+    .nav-sm {
+      padding-right: 0rem;
+      padding-left: 0rem;
+      display: block;
+      width: 100%;
     }
   }
   .header-logo {
@@ -38,7 +44,42 @@
     height: 100%;
     width: 2rem;
   }
+  .dropdown-menu {
+    background: base.$BgDarkBlue; //#0078FF;
+  }
+}
 
+@media (max-width: 991.98px) {
+  .header {
+    padding-right: 0rem;
+    padding-left: 0rem;
+
+    .container-fluid, .container {
+      padding-right: 0rem;
+      padding-left: 0rem;
+    }
+    .nav {
+      display: block;
+      width: 100%;
+      padding-right: 0rem;
+      padding-left: 0rem;
+
+      .btn:focus {
+        box-shadow: none;
+      }
+      .btn-primary {
+        background-color: base.$BgDarkBlue;
+        border: base.$BgDarkBlue;
+
+        :focus {
+          box-shadow: none;
+        }
+      }
+      .nav-link {
+        border-radius: 0px;
+      }
+    }
+  }
 }
 
 //@media (min-width: 425px) and (max-width: 992.125px) {
