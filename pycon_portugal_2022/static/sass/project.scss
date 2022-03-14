@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .inner-content-width {
-  max-width: 103.5rem;
+  max-width: 104rem;
 }
 
 // force footer to the bottom
@@ -39,7 +39,7 @@ body {
 }
 
 .title-lg {
-  font: normal normal bold 2.875rem/3.25rem Ubuntu;
+  font: normal normal bold 2.875rem/3.25rem Poppins;
 }
 
 .bg-grey {
@@ -66,3 +66,5 @@ a:hover {
 // includes
 
 @import "header";
+
+@import "home";

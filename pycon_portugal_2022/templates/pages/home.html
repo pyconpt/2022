@@ -2,15 +2,31 @@
 {% load static %}
 {% block content %}
 
-  {# HOME-HEADER #}
+  {# BANNER #}
   <div class="container-fluid home-header">
     <div class="container inner-content-width">
-      <div class="row justify-content-end home-title">
-        <div class="col" style="column-width: fill-available"></div>
-        <div class="col text-end">
-          <h3 class="text-center title" style="width: inherit">We’re back — September 21st-25th</h3>
-          <img src="{% static 'images/logo/logo_blue.png' %}" alt="Logo">
+      <div class="row lign-self-center justify-content-center align-content-center home-banner">
+
+        {# HOME-HEADER #}
+        <div class="col-12 col-lg-4 container home-title">
+          <div class="home-title-block">
+            <div class="row justify-content-center align-self-start">
+                <h1 class="title title-lg date-title">2022</h1>
+                <p class="title date-detail">SEPTEMBER 24th & 25th</p>
+            </div>
+            <div class="row justify-content-center align-self-end">
+                <h2 class="col-12 title date-title">PORTO</h2>
+                <p class="col-12 title date-detail">SUPERBOCK ARENA<br> PAVILHÃO ROSA<br> MOTA</p>
+            </div>
+          </div>
+          <div class="row justify-content-center align-self-center text-center">
+            <a href="{{ site_menu.ABOUT.submenu.TICKETS }}"><button class="col btn-tickets" href="/home/"> GRAB YOUR TICKET NOW
+            </button></a>
+          </div>
         </div>
+
+        {# HOME-ABOUT #}
+        {% include 'modules/default.html' with content=files.0 %}
       </div>
     </div>
   </div>
