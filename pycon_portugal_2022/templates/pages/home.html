@@ -8,7 +8,7 @@
       <div class="row lign-self-center justify-content-center align-content-center home-banner">
 
         {# HOME-HEADER #}
-        <div class="col-12 col-lg-4 order-lg-last container home-title">
+        <div class="col-12 col-lg-5 order-lg-last container home-title">
           <div class="home-title-block">
             <div class="row justify-content-center align-self-start">
                 <h1 class="title title-lg date-title">2022</h1>
@@ -20,7 +20,7 @@
             </div>
           </div>
           <div class="row justify-content-center align-self-center text-center">
-            <a href="{{ site_menu.ABOUT.submenu.TICKETS }}"><button class="col btn-tickets" href="/home/"> GRAB YOUR TICKET NOW
+            <a class="col btn-tickets" href="{{ site_menu.ABOUT.submenu.TICKETS }}"><button href="/home/"> GRAB YOUR TICKET NOW
             </button></a>
           </div>
         </div>
@@ -30,9 +30,6 @@
       </div>
     </div>
   </div>
-
-  {# HOME-ABOUT #}
-  {% include 'modules/default.html' with content=files.0 %}
 
   {# IMPORTANT DATES #}
   {% include 'modules/default.html' with content=files.1 %}
