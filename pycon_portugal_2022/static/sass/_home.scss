@@ -162,8 +162,10 @@
       border-bottom: .5rem black solid;
       height: 70%;
     }
-    .bg-green {
+    .bg-block {
       border-right: .5rem black solid;
+    }
+    .bg-green {
       background-color: #468F1F;
     }
     .bg-dark-blue {
@@ -175,7 +177,6 @@
       background-color: red;
     }
     .bg-light-green {
-      border-right: .5rem black solid;
       background-color: #90CECA;
     }
     .bg-light-purple {
@@ -224,6 +225,19 @@
   }
 }
 
+.home-sponsors {
+  &.important-dates {
+    .dates {
+      padding: 2rem 4rem;
+
+      h5 {
+        font-weight: bold;
+      }
+    }
+    .bg-dates {
+    }
+  }
+}
 //@media (max-width: 1999.98px) {
 //  .home-header {
 //    background: base.$BgBlue url("/static/images/background/homepage_xl.png");
