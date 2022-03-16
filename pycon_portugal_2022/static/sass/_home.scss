@@ -81,6 +81,147 @@
       }
     }
   }
+  .important-dates {
+
+    .dates {
+
+      .title {
+        text-align: start;
+      }
+    }
+  }
+}
+
+.important-dates {
+  position: relative;
+
+  .inner-content-width {
+    justify-content: start;
+  }
+  .dates {
+    max-width: 50rem;
+    margin: 5rem 10%;
+    border: .5rem black solid;
+    background-color: white;
+    padding: .75rem;
+
+    h1 {
+      padding: 2rem;
+    }
+    .calendar {
+      display: flex;
+      flex-wrap: wrap;
+      padding-bottom: 2rem;
+
+      blockquote {
+        display: flex;
+        justify-self: center;
+        width: 100%;
+        margin: 0rem;
+
+        h4 {
+          border-right: 0.25rem solid black;
+          text-align: end;
+          font-weight: bold;
+          padding: .875rem;
+          min-width: 12rem;
+          margin: 0rem;
+        }
+
+        blockquote {
+          display: flex;
+          flex-wrap: wrap;
+          flex: 1 0 0%;
+          padding: .875rem;
+
+          p {
+            margin-top: .875rem;
+            text-align: start;
+            display: block;
+            width: 100%;
+            margin-bottom: 0px;
+          }
+        }
+      }
+    }
+    .title {
+      text-align: center;
+    }
+  }
+  .bg-dates {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border-bottom: .5rem black solid;
+    background-color: blue;
+
+    .bg-row-top {
+      border-bottom: .5rem black solid;
+      height: 70%;
+    }
+    .bg-green {
+      border-right: .5rem black solid;
+      background-color: #468F1F;
+    }
+    .bg-dark-blue {
+      background-color: #2D358E;
+    }
+    .bg-row-bottom {
+      top: 70%;
+      height: 30%;
+      background-color: red;
+    }
+    .bg-light-green {
+      border-right: .5rem black solid;
+      background-color: #90CECA;
+    }
+    .bg-light-purple {
+      background-color: #D0B0F5;
+    }
+  }
+}
+
+@media (max-width: 991.98px) {
+  .important-dates {
+    .dates {
+
+      h1 {
+        text-align: start !important;
+        padding: .875rem;
+      }
+      .calendar {
+        display: block;
+
+        blockquote {
+          display: block !important;
+          width: 100%;
+          padding-right: 2%;
+
+          h4 {
+            display: block;
+            width: auto;
+            min-width: 5rem;
+            padding-bottom: 0rem;
+            text-align: start;
+            border-right: none;
+          }
+
+          blockquote {
+            display: block !important;
+            width: auto;
+            padding-top: .875rem;
+
+            p {
+              padding-left: 1rem;
+            }
+          }
+        }
+      }
+    }
+  }
 }
 
 //@media (max-width: 1999.98px) {

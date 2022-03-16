@@ -1,18 +1,16 @@
-title: important dates
+title: IMPORTANT DATES
 layout: home_dates
 
 
-> #### februrary
+> #### FEBRUARY
 >
 > > 15th - Early organising of the conference
 > >
 > > 21st - More organising, website is booted with a Call for Participation
-> >
-> > <span class="text-hidden">.</span>
 
 <span></span>
 
-> #### march
+> #### MARCH
 >
 > > 15th - Ticket sale opens, including info on scholarships
 > >
@@ -23,37 +21,31 @@ layout: home_dates
 
 <span></span>
 
-> #### april
+> #### APRIL
 >
 > > 15th -
 > >
 > > 21st -
-> >
-> > <span class="text-hidden">.</span>
 
 <span></span>
 
-> #### june
+> #### JUNE
 >
 > > 15th -
 > >
 > > 21st -
-> >
-> > <span class="text-hidden">.</span>
 
 <span></span>
 
-> #### august
+> #### AUGUST
 >
 > > 15th -
 > >
 > > 21st -
-> >
-> > <span class="text-hidden">.</span>
 
 <span></span>
 
-> #### september
+> #### SEPTEMBER
 >
 > > 21st - Main conference
 > >

@@ -1,12 +1,23 @@
 <div class="container-fluid important-dates">
-  <div class="container inner-content-width text-center text-white dates">
-    <h1 class="d-block text-center home-title title">{{ content.meta.title.0 }}</h1>
-    <div class="row">
-      <div class="col"></div>
-      <div class="col-sm-12 col-md-9">
-        {{ content.html | safe }}
+  <div class="container inner-content-width">
+    <div class="row justify-content-evenly">
+      <div class="col-12 col-lg-8 dates">
+        <h1 class="d-block text-center home-title title">{{ content.meta.title.0 }}</h1>
+        <div class="w-100 calendar">
+          {{ content.html | safe }}
+        </div>
       </div>
-      <div class="col"></div>
+      <div class="d-none d-lg-block col-1"></div>
+    </div>
+  </div>
+  <div class="bg-dates">
+    <div class="row bg-row-top">
+      <div class="col-5 bg-green"></div>
+      <div class="col-7 bg-dark-blue"></div>
+    </div>
+    <div class="row bg-row-bottom">
+      <div class="col-4 bg-light-green"></div>
+      <div class="col-8 bg-light-purple"></div>
     </div>
   </div>
 </div>
