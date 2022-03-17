@@ -34,8 +34,8 @@ body {
 // #
 
 //
-.text-blue {
-  color: base.$TxtBlue;
+.text-green {
+  color: base.$BgLightGreen !important;
 }
 
 .text-hidden {
@@ -44,14 +44,6 @@ body {
 
 .title-lg {
   font: normal normal bold 2.875rem/3.25rem Poppins;
-}
-
-.bg-grey {
-  background: base.$BgGrey;
-}
-
-.bg-light-grey {
-  background: base.$BgLightGrey;
 }
 
 //
@@ -74,3 +66,5 @@ a:hover {
 @import "home";
 
 @import "content";
+
+@import "footer";
