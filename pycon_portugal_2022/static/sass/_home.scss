@@ -220,10 +220,17 @@
 .home-sponsors {
   &.important-dates {
     .dates {
-      padding: 2rem 4rem;
 
-      h5 {
-        font-weight: bold;
+      .sponsors-content {
+
+        blockquote {
+          p {
+            display: block;
+          }
+        }
+        p {
+          display: none;
+        }
       }
     }
     .bg-dates {
