@@ -156,7 +156,6 @@
     height: 100%;
     width: 100%;
     border-bottom: .5rem black solid;
-    background-color: blue;
 
     .bg-row-top {
       border-bottom: .5rem black solid;
@@ -166,21 +165,20 @@
       border-right: .5rem black solid;
     }
     .bg-green {
-      background-color: #468F1F;
+      background-color: base.$BgGreen;
     }
     .bg-dark-blue {
-      background-color: #2D358E;
+      background-color: base.$BgBlue;
     }
     .bg-row-bottom {
       top: 70%;
       height: 30%;
-      background-color: red;
     }
     .bg-light-green {
-      background-color: #90CECA;
+      background-color: base.$BgLightGreen;
     }
     .bg-light-purple {
-      background-color: #D0B0F5;
+      background-color: base.$BgLightPurple;
     }
   }
 }
