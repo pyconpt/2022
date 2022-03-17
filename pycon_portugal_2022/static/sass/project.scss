@@ -68,3 +68,29 @@ a:hover {
 @import "content";
 
 @import "footer";
+
+// sponsors imgs
+img.sponsor {
+  width: unset;
+  height: 50px;
+  margin: 15px 30px 15px 0;
+}
+img.sponsor.huge {
+  height: 70px;
+}
+img.sponsor.large {
+  height: 60px;
+}
+img.sponsor.small {
+  height: 40px;
+}
+img.sponsor.tiny {
+  height: 25px;
+}
+
+img.hotel {
+  max-width: 200px;
+  max-height: 100px;
+  width: auto;
+  height: auto;
+}
