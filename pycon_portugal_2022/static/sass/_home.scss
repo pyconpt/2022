@@ -244,8 +244,11 @@
             padding-top: .875rem;
 
             p {
-              //padding-left: 1rem;
+              margin-bottom: 1rem;
             }
+          }
+          p {
+            margin-bottom: 0rem;
           }
         }
       }
