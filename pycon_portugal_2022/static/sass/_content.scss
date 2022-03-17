@@ -21,8 +21,8 @@
               position: static;
               top: auto;
               margin-top: 1rem;
-              padding-left: 5%;
-              padding-right: 5%;
+              padding-left: 5rem;
+              padding-right: 5rem;
 
               h1 {
                 padding: 1.5rem 0rem;
@@ -50,10 +50,9 @@
 
             .simple-content {
               &.home-title-block {
-                margin-left: 3vw;
-                margin-right: 3vw;
-                padding-left: 3vw;
-                padding-right: 3vw;
+                margin-left: .5rem;
+                margin-right: .5rem;
+                padding: 1rem 2.25rem;
 
                 h1 {
                 }

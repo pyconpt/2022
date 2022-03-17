@@ -6,12 +6,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.inner-content-width-lg {
-  max-width: 105rem;
-}
-
 .inner-content-width {
   max-width: 90rem;
+}
+
+.inner-text-width {
+  max-width: 65rem;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 // force footer to the bottom
