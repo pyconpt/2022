@@ -5,6 +5,10 @@
 .content-default {
   padding: 2rem;
 
+  button {
+    max-width: 24rem;
+  }
+
   &.home-header {
     .home-banner {
       .content-container {
