@@ -95,7 +95,7 @@
   }
   .dates {
     max-width: 50rem;
-    margin: 5rem 10%;
+    margin: 5rem 2rem;
     border: .5rem black solid;
     background-color: white;
     padding: .75rem;
@@ -130,11 +130,10 @@
           padding: .875rem;
 
           p {
-            margin-top: .875rem;
+            margin-bottom: .875rem;
             text-align: start;
             display: block;
             width: 100%;
-            margin-bottom: 0px;
           }
         }
       }
@@ -192,7 +191,7 @@
         blockquote {
           display: block !important;
           width: 100%;
-          padding-right: 2%;
+          padding-right: 1.5rem;
 
           h4 {
             display: block;
@@ -209,7 +208,7 @@
             padding-top: .875rem;
 
             p {
-              padding-left: 1rem;
+              //padding-left: 1rem;
             }
           }
         }
