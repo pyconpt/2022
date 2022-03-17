@@ -33,3 +33,33 @@
     }
   }
 }
+
+@media (max-width: 991.98px) {
+  .content-default {
+    &.home-header {
+      padding: 0rem;
+
+      .home-banner {
+
+        .content-container {
+          &.home-title {
+
+            .simple-content {
+              &.home-title-block {
+                margin-left: 3vw;
+                margin-right: 3vw;
+                padding-left: 3vw;
+                padding-right: 3vw;
+
+                h1 {
+                }
+                p {
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
