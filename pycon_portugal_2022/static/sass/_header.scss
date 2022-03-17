@@ -16,6 +16,10 @@
 
     a, a:hover {
       text-decoration: none;
+
+      &.dropdown-item:hover {
+        background-color: base.$BgBlue;
+      }
     }
     .nav-link {
       font-size: 1.125rem/2rem;
