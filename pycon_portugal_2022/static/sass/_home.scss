@@ -221,19 +221,38 @@
   &.important-dates {
     .dates {
 
-      .sponsors-content {
+      h1 {
+        text-align: start !important;
+        padding: .875rem;
+      }
+      .calendar {
+        display: block;
 
         blockquote {
-          p {
+          display: block !important;
+          width: 100%;
+          padding-right: 1.5rem;
+
+          h4 {
             display: block;
+            width: auto;
+            min-width: 5rem;
+            padding-bottom: 0rem;
+            text-align: start;
+            border-right: none;
+          }
+
+          blockquote {
+            display: block !important;
+            width: auto;
+            padding-top: .875rem;
+
+            p {
+              //padding-left: 1rem;
+            }
           }
         }
-        p {
-          display: none;
-        }
       }
-    }
-    .bg-dates {
     }
   }
 }
