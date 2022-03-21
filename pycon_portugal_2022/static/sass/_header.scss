@@ -4,6 +4,8 @@
 
 .header {
   position: sticky;
+  top:0px;
+  z-index: 9999;
   padding: 1rem;
   background: base.$BgBlue;
   border-bottom: .5rem black solid;
