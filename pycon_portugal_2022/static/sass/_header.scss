@@ -3,6 +3,7 @@
 @use "base";
 
 .header {
+  position: sticky;
   padding: 1rem;
   background: base.$BgBlue;
   border-bottom: .5rem black solid;
