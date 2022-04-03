@@ -1,55 +1,51 @@
-title: IMPORTANT DATES
+title: Important Dates
 layout: home_dates
 
 
-> #### FEBRUARY
+> #### April
 >
-> > 15th - Early organising of the conference
+> > 🎫 16th - Super Early Bird [Ticket sales](/tickets/) open*
 > >
-> > 21st - More organising, website is booted with a Call for Participation
+> > ✈️ 18th - [Grants](/information/grants/) applications' form opens
+> >
+> > 🎤 23rd - [Call for Participation](/talks/cfp/) opens
 
 <span></span>
 
-> #### MARCH
+> #### May
 >
-> > 15th - Ticket sale opens, including info on scholarships
-> >
-> > 21st - Call for Participation closes
-> >
-> > 28th - Opportunity Grants deadline
+> > 🎫 1st - Super Early Bird [Ticket sales](/tickets/) close*
+> > 
+> > 🎫 2nd - Early Bird [Ticket sales](/tickets/) open*
 
 
 <span></span>
 
-> #### APRIL
+> #### June
 >
-> > 15th -
-> >
-> > 21st -
+> > 🎫 20th - Early Bird [Ticket sales](/tickets/) close*
+> > 
+> > 🎤 31st - [Call for Participation](/talks/cfp/) deadline
 
 <span></span>
 
-> #### JUNE
+> #### July
 >
-> > 15th -
+> > 🎙 15th - [Talks](https://twitter.com/djangoconeurope){:target="_blank"} start being published
 > >
-> > 21st -
+> > ✈️ 30th - [Grants](/information/grants/) application deadline
 
 <span></span>
 
-> #### AUGUST
+> #### August
 >
-> > 15th -
+> > 🗓 1st - [Schedule](/talks/schedule/) is published
 > >
-> > 21st -
+> > 👶 31st - [Childcare](/information/hospitality/#childcare) applications dealine
 
 <span></span>
 
-> #### SEPTEMBER
+> #### September
 >
-> > 21st - Main conference
-> >
-> > 21st - Main conference
-> >
-> > 21st - Main conference
+> > 🎪 24th - [Main conference](/talks/schedule/) @ [University of Porto](/information/venue/)
 

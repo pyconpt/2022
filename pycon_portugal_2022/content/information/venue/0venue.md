@@ -1,17 +1,13 @@
 title: venue
 layout: simple
 
-The virtual venue of this year's edition will be [loudswarm](https://loudswarm.com/){:target="_blank"}. Following last year's great success and overall satisfaction from the community, we decided to partner up again. The platform offers a "Truly Engaging Virtual Experience" and puts participants in control of their own virtual experience by allowing them to network live with fellow attendees.
+The conference will take place in the Department of Computer Sciences from the Faculty of Sciences of the University of Porto. This venue is also located very close the city centre. Moreover, it is also wheelchair [accessible](https://www.tur4all.com/pt/organize-a-sua-viagem){:target="_blank"}.
 
-[![loudswarm](/static/images/sponsors/loudswarm.png#cb){:width=150px}](https://loudswarm.com/){:target="_blank"}
+[![dcc](/static/images/sponsors/dcc.png){:class='sponsor large'}](https://www.dcc.fc.up.pt/){:target="_blank"} [![fcup](/static/images/sponsors/fcup.png){:class='sponsor large'}](https://sigarra.up.pt/fcup/){:target="_blank"}
+**FCUP Department of Computer Science (DCC)**
+Rua do Campo Alegre 1021/1055
+4169-007 Porto
 
-Some of the main key features are:
+<iframe width="100%" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=fcup%20dcc&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" class="mb-3"></iframe>
 
-* highly engaged audience
-* all-in-one integrated experience
-* easy communication with attendees
-* intuitive interface
-
-
-<iframe width="100%" height="465" id="gmap_canvas" src="https://loudswarm.com/embed.html?name=newbrowsing.smil" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-
+The closest bus station is *Casa das Artes* (bus lines: 200, 204, 207).

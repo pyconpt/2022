@@ -52,10 +52,10 @@ def links(request):
             },
         },
         'social_media': {
-            'twitter': 'https://twitter.com/',
+            'twitter': 'https://twitter.com/PyConPT',
             'slack': 'https://slack.com/',
             'youtube': 'https://youtube.com/',
             'linkedin': 'https://linked.in/',
-            'github': 'https://github.com/pyconpt/2022/',
+            'github': 'https://github.com/pyconpt/',
         }
     }

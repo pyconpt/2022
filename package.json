@@ -1,7 +1,6 @@
 {
   "name": "pycon_portugal_2022",
   "version": "0.1.0",
-  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "browser-sync": "^2.27.7",
@@ -26,5 +25,8 @@
   "scripts": {
     "dev": "gulp",
     "build": "gulp generate-assets"
+  },
+  "dependencies": {
+    "agentkeepalive": "^4.2.1"
   }
 }
