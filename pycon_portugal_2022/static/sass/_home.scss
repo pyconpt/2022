@@ -72,6 +72,10 @@
       .home_about-content {
         width: 100%;
         padding: 2rem 5vw;
+
+        a {
+          color: base.$HomeHeaderLinks;
+        }
       }
     }
   }
