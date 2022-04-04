@@ -3,7 +3,6 @@
 @use "base";
 
 .header {
-  transition: 300ms linear;
   position: relative;
   z-index: 1;
   padding: 1rem;
@@ -89,7 +88,6 @@
   }
 }
 .header-lg-show {
-  transition: 300ms linear;
   position: absolute;
   top: 0px;
 }
