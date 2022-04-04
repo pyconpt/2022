@@ -9,4 +9,4 @@ Reviewers will be asked to look at a set of submissions and submit a review (bot
 
 We'll of course notify you regardless of the review outcome with the result. We'll probably send out some of the acceptance mails before the rejection mails, to give accepted speakers a chance to step back, in case they cannot attend after all. Regardless of our decision, feel free to ping us for feedback and we'll give you an overview over reviewer opinions!
 
-We value your feedback. If you have any questions, concerns or wish to volunteer for the review team, please get in touch with [content@djangocon.eu](mailto:content@djangocon.eu).
+We value your feedback. If you have any questions, concerns or wish to volunteer for the review team, please get in touch with [content@pycon.pt](mailto:content@pycon.pt).

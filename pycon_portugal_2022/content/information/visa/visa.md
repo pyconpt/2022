@@ -3,9 +3,9 @@ layout: simple
 
 If your country is not part of the [Schengen Agreement](https://www.schengenvisainfo.com/who-needs-schengen-visa/), you will need to request a tourist Visa in the Portuguese Embassy. Please refer to your local embassy for information on processing time. According to the information provided by the Portuguese Ministry of Foreign Affairs, we have compiled this list with the necessary documents to obtain a [Short Stay Visa](https://www.vistos.mne.pt/en/short-stay-visas-schengen/required-documentation/short-stay-visa#refer-to-the-harmonized-documents-table-concerning-required-documents-for-visa-application-lodging-in-specific-countries).
 
-* An invitation letter from the DjangoCon organisation team
+* An invitation letter from the PyCon organisation team
 
-After you have purchased your DjangoCon ticket, send an e-mail to [hospitality@djangocon.eu](mailto:hospitality@djangocon.eu) with: the purchased ticket, your full name, your address, a copy of your passport, your company and/or university name and address.
+After you have purchased your PyCon ticket, send an e-mail to [hospitality@pycon.pt](mailto:hospitality@pycon.pt) with: the purchased ticket, your full name, your address, a copy of your passport, your company and/or university name and address.
 
 * Travel Insurance 
 

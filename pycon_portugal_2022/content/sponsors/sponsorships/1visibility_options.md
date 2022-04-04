@@ -16,6 +16,6 @@ The following table highlights the main sponsor levels.
 
 *Excl. VAT.
 
-Please contact [sponsors@djangocon.eu](mailto:sponsors@djangocon.eu) with questions and comments and we'll get back to you within 24 hours! We are also available to schedule a call to clarify all the sponsorship packages and even adapt them to your company specific requirements. 
+Please contact [sponsors@pycon.pt](mailto:sponsors@pycon.pt) with questions and comments and we'll get back to you within 24 hours! We are also available to schedule a call to clarify all the sponsorship packages and even adapt them to your company specific requirements. 
 
 **We say a humble thanks to any contribution and support given!**

@@ -12,7 +12,7 @@ Lastly, we know that some of you reading this will doubt whether it's right and 
 
 With our limited funds, we can't promise you will receive a grant, but if you're not sure, **we encourage you to apply**. If you're uncomfortable with other people knowing you received a grant, you don't have to tell them - our policy is to never publicly identify grant applicants or recipients without their explicit permission.
 
-If you have questions, you can write [2021@djangocon.eu](mailto:2021@djangocon.eu).
+If you have questions, you can write [2021@pycon.pt](mailto:2021@pycon.pt).
 
 **The application window will end on May 15th at 23:59 UTC!** 
 

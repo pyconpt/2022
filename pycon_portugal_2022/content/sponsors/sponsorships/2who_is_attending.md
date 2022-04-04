@@ -5,4 +5,4 @@ This is a conference for software developers, DevOps, entrepreneurs, marketeers,
 
 The attendees is a mixed crowd with various professional positions and levels. Approximately half are newcomers.
 
-We have room for an unlimited number of attendees. The physical events usually have an attendance of 400 persons. Nevertheless, last year's editon, the first-ever in a virtual format, had **more than 800 registrations!** DjangoCons exist world-wide and the community and audience are from all continents (except perhaps Antarctica?).
+We have room for an unlimited number of attendees. The physical events usually have an attendance of 400 persons. Nevertheless, last year's editon, the first-ever in a virtual format, had **more than 800 registrations!** PyCons exist world-wide and the community and audience are from all continents (except perhaps Antarctica?).

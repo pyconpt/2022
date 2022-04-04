@@ -3,7 +3,7 @@ layout: simple
 
 First off, a warning: all of the following numbers are approximate and may change – we don't know the future, and we may have to adjust to changed circumstances in a number of ways.
 
-DjangoCon Europe has three conference days reserved for talks (followed by two days of sprints with tutorials on the side). Past experience shows that more than 10 talks per day (plus room for lightning talks) is a bit much, so we're looking at about 30 talk slots we can distribute among submissions. Of these 30:
+PyCon Europe has three conference days reserved for talks (followed by two days of sprints with tutorials on the side). Past experience shows that more than 10 talks per day (plus room for lightning talks) is a bit much, so we're looking at about 30 talk slots we can distribute among submissions. Of these 30:
 
 * 3 will go to **keynote** speakers selected by us. We're very much open to suggestions, so contact us if there is anybody you'd like to see or hear as a keynote speaker!
 
