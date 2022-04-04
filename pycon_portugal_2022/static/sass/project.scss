@@ -96,3 +96,10 @@ img.hotel {
   width: auto;
   height: auto;
 }
+
+//
+
+button:hover {
+  color: white !important;
+  background-color: base.$BgLightGreen !important;
+}
