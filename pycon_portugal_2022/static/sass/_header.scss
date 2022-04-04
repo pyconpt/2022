@@ -3,9 +3,9 @@
 @use "base";
 
 .header {
-  position: sticky;
-  top:0px;
-  z-index: 0;
+  transition: 300ms linear;
+  position: relative;
+  z-index: 1;
   padding: 1rem;
   background: base.$BgBlue;
   border-bottom: .5rem black solid;
@@ -87,4 +87,9 @@
       }
     }
   }
+}
+.header-lg-show {
+  transition: 300ms linear;
+  position: absolute;
+  top: 0px;
 }
