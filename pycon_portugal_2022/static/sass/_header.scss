@@ -4,6 +4,7 @@
 
 .header {
   position: relative;
+  top: 0px;
   z-index: 1;
   padding: 1rem;
   background: base.$BgBlue;
@@ -88,6 +89,6 @@
   }
 }
 .header-lg-show {
-  position: absolute;
+  position: absolute !important;
   top: 0px;
 }
