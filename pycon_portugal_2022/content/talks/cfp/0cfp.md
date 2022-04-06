@@ -1,14 +1,12 @@
-title: call for participation
+title: Call for Participation
 layout: simple
 
-This page contains all information regarding the proposal process for PyCon Europe – we will update it regularly as new information becomes available.
+This page contains all information regarding the proposal process for PyCon Portugal – we will update it regularly as new information becomes available.
 
-The talk submissions are ** currently closed **! If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt). Don't forget to follow us on Twitter [@PyConEurope](https://twitter.com/pyconeurope){:target="_blank"} for the latest up to date information!
+The talk submissions are ** open **! If you have any questions, please do not hesitate to contact us at [2022@pycon.pt](mailto:2022@pycon.pt). Don't forget to follow us on Twitter [@PyConPT](https://twitter.com/PyConPT){:target="_blank"} for the latest up to date information!
 
-** Deadline was 2021-04-04 23h59 UTC 🔥 **- precisely speaking, that was April 4th, 2021, 23:59 UTC. You could edit your submissions up to that date.
+** Deadline is 2022-06-31 23h59 UTC 🔥 **- precisely speaking, that is June 31st, 2022, 23:59 UTC. You can edit your submissions up until this date.
 
-If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to [Slack](https://t.co/x6X7ylIq3k){:target="_blank"} to find previous speakers and participants to discuss your idea with. ** When in doubt, submit your talk 😉!**
+If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to [Slack](https://pyconportugal.slack.com){:target="_blank"} to find previous speakers and participants to discuss your idea with. ** When in doubt, submit your talk 😉!**
 
-<center>[<button class="btn">Check your submitted talks here!</button>](https://cfp.2021.pycon.pt/2021/cfp){:target="_blank"}</center>
-
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/4rsL974kwsE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>[<button class="btn">Submit your talk here!</button>](https://pretalx.evolutio.pt/pyconpt2022/cfp){:target="_blank"}</center>

@@ -1,10 +1,15 @@
-title: schedule 🗓️
+title: Schedule ️
 layout: simple
-class: bg-grey
 
-* **Talks** - June 2-4
-* **Workshops** - June 2-4
-* **Lightning Talks** - June 2-4 (at the end of each day)
-* **Sprints** - June 5-6
+** More info coming soon... **
 
-The conference will take place from 9AM to 6PM (UTC+2).
+Follow us on social media for up-to-date information - see footer below!
+
+<!--
+* **Talks** - September 21-23
+* **Workshops** - September 21-23
+* **Lightning Talks** - September 21-23 (at the end of each day)
+* **Sprints** - September 24-25
+
+The conference will take place from 9AM to 6PM.
+-->
