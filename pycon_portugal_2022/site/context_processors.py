@@ -43,7 +43,7 @@ def links(request):
             },
             'TICKETS': {
                 'dropdown': 'false',
-                'HREF': '/tickets/',
+                'href': '/tickets/',
             },
             'ABOUT': {
                 'dropdown': 'true',
