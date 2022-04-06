@@ -1,18 +1,13 @@
 title: code of conduct
 layout: simple
 
-Everybody who participates in PyCon Europe in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organizers, volunteers, and event staff.
+Everybody who participates in PyCon Portugal in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organizers, volunteers, and event staff.
 
 The organizers will introduce a Code of Conduct team that will be primarily responsible for handling any incidents. The CoC applies before and throughout the event (including related activities such as social events, and social media). We have also published our [response guidelines](/conduct/response_guide/).
 
-The team can be reached on [conduct@pycon.pt](mailto:conduct@pycon.pt), and its members are (alphabetically):
+The team can be reached on [conduct@pycon.pt](mailto:conduct@pycon.pt).
 
-* Andrew Kinyua
-* Jesse Hunt (he/him)
-* Rin (they/them)
-* Thibaud Colas (he/him)
-
-We would like to thank the PyCon Europe 2019 CoC team for the awesome CoC (which we adapted with some minor modifications) and the response guidelines (which we have adopted almost unedited from 2018).
+We would like to thank the PyCon Portugal 2019 CoC team for the awesome CoC (which we adapted with some minor modifications) and the response guidelines (which we have adopted almost unedited from 2018).
 
 <hr/>
 
@@ -45,7 +40,7 @@ We are dedicated to providing a harassment-free conference experience for everyo
 * We do not tolerate harassment of conference participants in any form. This includes offensive comments related to the categories above, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, violent threats or language, inappropriate physical contact, and unwelcome sexual attention. Advocating for, or encouraging, any of the above behaviour is also not acceptable.
 * Sexual language and imagery are not appropriate for any venue to which the CoC applies.
 * Some people may not wish to be filmed or photographed - respect their wishes, take extra care when publishing pictures and provide a way to request them to be taken down.
-* Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive and unwelcoming to those around you. Excessive swearing and offensive jokes are not appropriate for PyCon Europe.
+* Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive and unwelcoming to those around you. Excessive swearing and offensive jokes are not appropriate for PyCon Portugal.
 * Condescending behavior towards people of different knowledge levels, and especially beginners, is unacceptable.
 * No one owes anyone any form of interaction or explanation for why they don't want contact. If someone asks you to leave them alone, accept and respect it without any further discussion, even if you think it is unwarranted.
 
@@ -57,7 +52,7 @@ This Code of Conduct applies to all conference related spaces. That includes, bu
 
 * The conference online platform
 * Any conference related social activities
-* [Slack](https://t.co/x6X7ylIq3k){:target="_blank"} channels, tweets with the conference hashtag, and other online media
+* [Slack](https://pyconportugal.slack.com){:target="_blank"} channels, tweets with the conference hashtag, and other online media
 * The Code of Conduct does not exclusively apply to events on the conference agenda. For example, if after a scheduled social event, you go to a bar with a group of fellow participants and someone harasses you there, we would still treat that as a CoC violation.
 
 <hr/>
@@ -77,7 +72,7 @@ In case of a Code of Conduct violation, some of the most common actions organise
 
 #### Where to report incidents
 
-If a Code of Conduct incident happens to you, or you witness it happening to someone else, please contact the CoC team immediately, either in Slack or by sending an email to [conduct@pycon.pt](mailto:conduct@pycon.pt).
+If a Code of Conduct incident happens to you, or you witness it happening to someone else, please contact the CoC team immediately, either in [Slack](https://pyconportugal.slack.com){:target="_blank"} or by sending an email to [conduct@pycon.pt](mailto:conduct@pycon.pt).
 
 Your report will be treated confidentially and will only be discussed within the CoC team.
 
@@ -113,4 +108,4 @@ When handling a report, we follow our [response guidelines](/conduct/response_gu
 
 <hr/>
 
-We value your attendance, and look forward to seeing you at PyCon Europe.
+We value your attendance, and look forward to seeing you at PyCon Portugal.
