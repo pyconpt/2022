@@ -1,4 +1,4 @@
-title: response guide
+title: Response Guide
 layout: simple
 
 This is a guide for the organisers and volunteers of PyCon Portugal on handling [Code of Conduct](/conduct/code_of_conduct/) (CoC) reports. This guide is mostly aimed at conference staff to help us deal with incidents professionally, and reduce the risk of mistakes. This is especially important because conferences are stressful and involve significant time pressure. However, it's always possible that special circumstances require a deviation from this guide.

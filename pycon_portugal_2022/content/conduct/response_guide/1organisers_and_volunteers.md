@@ -1,4 +1,4 @@
-title: for organisers and volunteers
+title: For Organisers and Volunteers
 layout: simple
 class: bg-grey
 
