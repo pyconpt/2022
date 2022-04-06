@@ -1,4 +1,4 @@
-title: information collected
+title: Information Collected
 layout: simple
 class: bg-grey
  

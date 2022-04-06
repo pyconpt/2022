@@ -1,4 +1,4 @@
-title: contact
+title: Contact
 layout: simple
 
 You are most welcome to get in touch if you have questions.

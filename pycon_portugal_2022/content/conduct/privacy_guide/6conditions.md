@@ -1,4 +1,4 @@
-title: conditions
+title: Conditions
 layout: simple
 
 We retain your Personal Data for as long as necessary to provide you with our Services, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements.

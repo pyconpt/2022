@@ -1,4 +1,4 @@
-title: privacy notice
+title: Privacy Notice
 layout: simple
 class: bg-grey
 

@@ -1,4 +1,4 @@
-title: external hyperlinks
+title: External Hyperlinks
 layout: simple
 class: bg-grey
 

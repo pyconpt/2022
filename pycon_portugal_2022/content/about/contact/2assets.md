@@ -1,4 +1,4 @@
-title: assets
+title: Assets
 layout: simple
 
 Feel free to download any assets that you might need:

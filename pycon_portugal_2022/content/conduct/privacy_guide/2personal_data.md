@@ -1,4 +1,4 @@
-title: personal data
+title: Personal Data
 layout: simple
 
 The processing of personal data, by PyCon Portugal 2022 organizers, is intended to provide a service of interest to the personal data subject. **The PyCon Portugal international conference is the specific purpose of why we treat your personal data.** The information we collect serves to correctly identify you and manage the services provided.
