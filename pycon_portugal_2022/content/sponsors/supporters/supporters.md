@@ -1,7 +1,7 @@
 title: Supporters
 layout: simple
 
-Below you have a list of amazing people from the Django community who **went above and beyond to help make this conference possible**. With their contribution, we will be able to offer grants to people from marginalised or under-represented groups.
+Below you have a list of amazing people from the Python community who **went above and beyond to help make this conference possible**. With their contribution, we will be able to offer grants to people from marginalised or under-represented groups.
 
 ** Supporters List Coming Soon... **
 
