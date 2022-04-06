@@ -4,29 +4,32 @@ def links(request):
         'home': '/home/',
         'site_menu': {
             'TALKS': {
-                'dropdown': 'false',
+                'dropdown': 'true',
                 'submenu': {
-                    'SCHEDULE': '/talks/schedule/',
-                    'CFP': '/talks/cfp/',
+                    'CALL FOR PARTICIPATION': '/talks/cfp/',
                     'SELECTION PROCESS': '/talks/selection_process/',
+                    'SCHEDULE': '/talks/schedule/',
                 },
             },
             'INFORMATION': {
                 'dropdown': 'true',
                 'submenu': {
+                    'PORTO': '/information/porto/',
                     'VENUE': '/information/venue/',
-                    'SWAG BAG': '/information/swag_bag/',
                     'GRANTS': '/information/grants/',
-                    'DJANGO GIRlS': '/information/django_girls/',
                     'SPRINTS': '/information/sprints/',
+                    'HOSPITALITY': '/information/hospitality/',
+                    'PARTY': '/information/party/',
+                    'T-SHIRTS': '/information/tshirts/',
                     'ANNOUNCEMENTS': '/information/announcements/',
                 },
             },
-            'SPONSORS': {
-                'dropdown': 'false',
+            'SPONSORS & JOBS': {
+                'dropdown': 'true',
                 'submenu': {
-                    'SPONSORS': '/sponsors/sponsors/',
-                    'CONTRIBUTORS': '/sponsors/contributors/',
+                    'SPONSORS': '/sponsors/sponsors',
+                    'SUPPORTERS': '/sponsors/supporters/',
+                    'JOBS': '/sponsors/jobs/',
                     'SPONSORSHIP': '/sponsors/sponsorship/',
                 },
             },
@@ -38,14 +41,13 @@ def links(request):
                     'PRIVACY GUIDE': '/conduct/privacy_guide/',
                 },
             },
-            'JOBS': {
+            'TICKETS': {
                 'dropdown': 'false',
-                'href': '/jobs/',
+                'HREF': '/tickets/',
             },
             'ABOUT': {
                 'dropdown': 'true',
                 'submenu': {
-                    'TICKETS': '/about/tickets/',
                     'CONTACT': '/about/contact/',
                     'CREDITS': '/about/credits/',
                 },
