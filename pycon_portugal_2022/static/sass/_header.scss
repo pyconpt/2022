@@ -24,6 +24,9 @@
         background-color: base.$BgBlue;
       }
     }
+    .nav-link::after {
+      display: none;
+    }
     .nav-link {
       font-size: 1.125rem/2rem;
       font-weight: bold;
@@ -58,8 +61,13 @@
 
 @media (max-width: 991.98px) {
   .header {
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding: 0rem;
+    border-bottom: none;
+
+    .header-sm-top {
+      padding: 1rem;
+      border-bottom: .375rem black solid;
+    }
 
     .container-fluid, .container {
       padding-right: 0rem;
