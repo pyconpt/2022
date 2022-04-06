@@ -1,4 +1,4 @@
-title: topics 🎯
+title: Topics
 layout: simple
 
 * Python internals and challenges in modern development.

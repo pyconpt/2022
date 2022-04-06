@@ -1,4 +1,4 @@
-title: guidelines 🧭
+title: Guidelines
 layout: simple
 
 * Submit your talk in time, no excuses.

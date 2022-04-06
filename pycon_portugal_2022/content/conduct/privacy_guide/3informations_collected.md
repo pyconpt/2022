@@ -1,6 +1,5 @@
 title: Information Collected
 layout: simple
-class: bg-grey
  
 The data subject will provide their consent by confirming several options, appropriate for each case, by selecting different technical parameters and completing various fields, which demonstrate the data subject’s positive act and unmistakable willingness to provide personal data. 
 

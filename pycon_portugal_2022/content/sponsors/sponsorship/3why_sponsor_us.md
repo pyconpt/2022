@@ -1,6 +1,5 @@
-title: why sponsor us?
+title: Why sponsor us?
 layout: simple
-class: bg-grey
 
 Why should you sponsor?
 

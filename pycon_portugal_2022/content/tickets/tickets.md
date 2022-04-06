@@ -1,4 +1,4 @@
-title: tickets
+title: Tickets
 layout: simple
 
 **All tickets include access to all 3 conference days (September 21 - 23) and the 2 sprints days (September 24 - 25)**. Don't forget to follow us on Twitter [@PyConPT](https://twitter.com/PyConPT){:target="_blank"} for the latest up to date information!

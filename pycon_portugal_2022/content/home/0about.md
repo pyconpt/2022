@@ -1,4 +1,4 @@
-title: about
+title: About
 layout: home_about
 
 ## PyCon Portugal

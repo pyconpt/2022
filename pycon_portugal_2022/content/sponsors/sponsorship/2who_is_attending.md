@@ -1,4 +1,4 @@
-title: who is attending?
+title: Who is Attending?
 layout: simple
 
 This is a conference for software developers, DevOps, entrepreneurs, marketeers, sprouting new Pythoneers, recruiters and exciting partners working with Python.

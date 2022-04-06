@@ -1,4 +1,4 @@
-title: t-shirts
+title: T-Shirts
 layout: simple
 
 ** We are still drawing up the best t-shirts for you! ** In the meanwhile, you can already purchase them together with your ticket.

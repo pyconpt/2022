@@ -1,4 +1,4 @@
-title: porto city
+title: Porto City
 layout: simple
 
 > Opening up like a pop-up book from the banks of the Rio Douro, edgy-yet-opulent Porto entices with its historic centre, sumptuous food and wine, and charismatic locals.

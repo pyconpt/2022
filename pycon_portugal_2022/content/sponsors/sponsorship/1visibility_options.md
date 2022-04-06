@@ -1,6 +1,5 @@
-title: visibility options
+title: Visibility Options
 layout: simple
-class: bg-grey
 
 We have made a large sponsorship menu to invite all to contribute and to give you the opportunity to customise your support. 
 

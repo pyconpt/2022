@@ -1,4 +1,4 @@
-title: composition
+title: Composition
 layout: simple
 
 ** More info coming soon **

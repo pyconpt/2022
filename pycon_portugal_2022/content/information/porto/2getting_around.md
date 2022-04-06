@@ -1,4 +1,4 @@
-title: getting around
+title: Getting Around
 layout: simple
 
 The easiest way to travel is with the Andante Tour tickets, 1 day – 7.00€ and 3 days – 15.00€ (both available at the Trindade metro station and the S. Bento train station ticket offices). This ticket allows you unlimited travel on both bus and metro.

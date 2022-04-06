@@ -1,6 +1,5 @@
-title: reviewing
+title: Reviewing
 layout: simple
-class: bg-grey
 
 <!-- TODO: complete review team -->
 <!-- Our review team is made up of 6 people from the organiser team and 1 from outside. We are a mix of organisers and some core developers. -->

@@ -1,4 +1,4 @@
-title: selection process 👁️
+title: Selection Process️
 layout: simple
 
 Reviewing the talks and tutorials submitted to a conference can be a daunting task – there is much to consider, and usually there are more great submissions than there are slots available in the conference schedule.

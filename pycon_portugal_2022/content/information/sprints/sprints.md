@@ -1,4 +1,4 @@
-title: sprints 
+title: Sprints 
 layout: simple
 
 So you have listened to all the exciting topics on Python for three days and now feel motivated do something about it. What could be a better motivation than contributing to the very open source software you just listened to?

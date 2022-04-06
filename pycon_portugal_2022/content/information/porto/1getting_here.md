@@ -1,6 +1,5 @@
-title: getting here
+title: Getting Here
 layout: simple
-class: bg-grey
 
 The city of Porto, with an area of 42km2, is the second largest city in Portugal.  It is located in the north of the country, on the North-western part of the Iberian Peninsula and lies to the right hand side of the river Douro in close proximity to its mouth.
 

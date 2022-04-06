@@ -1,6 +1,5 @@
 title: For Organisers and Volunteers
 layout: simple
-class: bg-grey
 
 PyCon Portugal has a dedicated Code of Conduct Active Response Ensurers (CARE) team, and this team will generally handle any reports. However, other organisers and volunteers are sometimes the first point of contact, or may observe incidents themselves.
 

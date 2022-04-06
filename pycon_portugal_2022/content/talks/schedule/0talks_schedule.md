@@ -1,4 +1,4 @@
-title: talks schedule
+title: Talks Schedule
 layout: simple
 
 ** More info coming soon after the talks' selection... **
