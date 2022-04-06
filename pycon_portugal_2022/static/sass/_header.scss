@@ -6,9 +6,14 @@
   position: relative;
   top: 0px;
   z-index: auto;
-  padding: 1rem;
+  padding: 1rem 2rem;
   background: base.$BgBlue;
   border-bottom: .5rem black solid;
+
+  .inner-content-width {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 
   .header-margin {
     max-width: 160px;
@@ -36,6 +41,9 @@
       padding-left: 0rem;
       display: block;
       width: 100%;
+    }
+    &.nav-lg {
+      max-width: 62rem;
     }
   }
   .header-logo {

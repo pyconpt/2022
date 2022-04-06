@@ -11,7 +11,7 @@
           <img src="{% static 'images/logo/logo.svg' %}" alt="Logo">
         </a>
       </div>
-      <ul class="col-10 row nav nav-pills align-self-center justify-content-evenly">
+      <ul class="col-10 row nav nav-pills align-self-center justify-content-between nav-lg">
         {% for menu, menu_dict in site_menu.items %}
           {% if menu_dict.dropdown == 'false' %}
             <li class="nav-item col d-contents">
