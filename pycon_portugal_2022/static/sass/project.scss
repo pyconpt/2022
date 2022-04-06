@@ -47,6 +47,11 @@ body {
 .title-lg {
   font: normal normal bold 2.875rem/3.25rem Poppins;
 }
+@media (max-width: 991.98px) {
+  .title-lg {
+    font: normal normal bold 2.5rem/2.75rem Poppins;
+  }
+}
 
 //
 a {

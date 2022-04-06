@@ -14,13 +14,13 @@
       .content-container {
         &.home-title {
           max-width: 100%;
-          margin: 1rem 0rem;
+          padding: 1.5rem;
 
           .simple-content {
             &.home-title-block {
               position: static;
               top: auto;
-              margin-top: 1rem;
+              margin: 0rem;
               padding-left: 5rem;
               padding-right: 5rem;
 
@@ -47,12 +47,11 @@
 
         .content-container {
           &.home-title {
+            padding: 1rem;
 
             .simple-content {
               &.home-title-block {
-                margin-left: .5rem;
-                margin-right: .5rem;
-                padding: 1rem 2.25rem;
+                padding: 1.5rem;
 
                 h1 {
                 }
