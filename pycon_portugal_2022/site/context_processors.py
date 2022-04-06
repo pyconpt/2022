@@ -19,9 +19,9 @@ def links(request):
                     'GRANTS': '/information/grants/',
                     'SPRINTS': '/information/sprints/',
                     'HOSPITALITY': '/information/hospitality/',
-                    'PARTY': '/information/party/',
+                    # 'PARTY': '/information/party/',
                     'T-SHIRTS': '/information/tshirts/',
-                    'ANNOUNCEMENTS': '/information/announcements/',
+                    # 'ANNOUNCEMENTS': '/information/announcements/',
                 },
             },
             'SPONSORS & JOBS': {
