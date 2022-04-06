@@ -2,14 +2,14 @@ title: for organisers and volunteers
 layout: simple
 class: bg-grey
 
-PyCon Europe has a dedicated Code of Conduct Active Response Ensurers (CARE) team, and this team will generally handle any reports. However, other organisers and volunteers are sometimes the first point of contact, or may observe incidents themselves.
+PyCon Portugal has a dedicated Code of Conduct Active Response Ensurers (CARE) team, and this team will generally handle any reports. However, other organisers and volunteers are sometimes the first point of contact, or may observe incidents themselves.
 
 In general, as a representative of the conference, be aware that other participants look toward you for appropriate behaviour within the Code of Conduct.
 
 When you are an organiser or volunteer not on the CARE team, the general guidelines for observing an incident or receiving a report are:
 
 - If you can easily find a member of the CARE team, do that, and let them handle the incident from there on. In that case, you don’t need to do anything else. If you were a witness, the CARE team may ask for more information later.
-- If you can't easily find a CARE team member, write down the basic details of the incident: what happened, who was involved, when and where this happened, whether the incident is ongoing and how we can contact the reporter. If someone is reluctant to provide some of this information, or doesn’t know, do not pressure them.
+- If you can't easily find a CARE team member, write down the basic details of the incident: what happened, who was involved, when and where this happened, whether the incident is ongoing and how we can contact the reporter. If someone is reluctant to provide some of this information, or doesn't know, do not pressure them.
 - If possible, the reporter can also send a mail to [conduct@pycon.pt](mailto:conduct@pycon.pt). This is helpful, as it gives the CARE team a first-hand written account.
 - In any case, pass the details you noted down to a CARE team member as soon as possible.
 - If requested, try to arrange for an escort by staff or a trusted person, help the reporter contact a friend, or contact local law enforcement. Never pressure any of these action if the reporter does not want this.
