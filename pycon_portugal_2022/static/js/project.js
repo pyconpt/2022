@@ -10,18 +10,13 @@ function changeHeader() {
 
     if (mediaQ.matches) {
         const logo = header.getElementsByTagName("img")[0];
-
-        header.style.position = "relative";
-        header.style.zIndex = "0";
-
-        console.log(this.scrollTop + " " + limiter);
         if (this.scrollTop > limiter) {
             header.style.zIndex = "9999";
             logo.src = "/static/images/logo/logo_mobile.svg";
             header.classList.add("header-lg-show");
             homeHeader.style.paddingTop = headerSize + "px";
         } else {
-            header.style.zIndex = "0";
+            header.style.zIndex = "auto";
             logo.src = "/static/images/logo/logo.svg";
             header.classList.remove("header-lg-show");
             homeHeader.style.paddingTop = "0px";
