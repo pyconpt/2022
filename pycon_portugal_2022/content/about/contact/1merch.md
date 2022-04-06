@@ -1,4 +1,4 @@
-title: Freebies
+title: freebies
 layout: simple
 class: bg-grey
 
