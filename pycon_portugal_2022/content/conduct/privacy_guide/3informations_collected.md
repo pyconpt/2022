@@ -4,7 +4,7 @@ class: bg-grey
  
 The data subject will provide their consent by confirming several options, appropriate for each case, by selecting different technical parameters and completing various fields, which demonstrate the data subject’s positive act and unmistakable willingness to provide personal data. 
 
-The PyCon Europe 2021 organizers will endeavor to observe the principles of proportionality and necessity by performing a case-by-case analysis, adjusting the need for processing personal data when providing different services. In some cases, only a name and e-mail will be requested. In other cases, like a proposal speaker, more information needs to be collected. We don’t process sensitive data. 
+The PyCon Portugal 2022 organizers will endeavor to observe the principles of proportionality and necessity by performing a case-by-case analysis, adjusting the need for processing personal data when providing different services. In some cases, only a name and e-mail will be requested. In other cases, like a proposal speaker, more information needs to be collected. We don’t process sensitive data. 
 
 <hr/>
 
@@ -18,9 +18,9 @@ The personal data we may collect includes without limitation your name, email ad
 
 #### Speakers
 
-If you are a proposal speaker we will need to collect additional personal data from you. And we will requered other information different from your personal data (e.g., a title, a description, abstract, a profile photo, etc.) when you do the submission. This information is essential to select the titles and defined the conference program. 
+If you are a proposal speaker we will need to collect additional personal data from you. And we will require other information different from your personal data (e.g., a title, a description, abstract, a profile photo, etc.) when you do the submission. This information is essential to select the titles and defined the conference program. 
 
-The PyCon Europe 2021 will share the slides presentation realized with the attendees. 
+The PyCon Portugal 2022 will publicly share the slides from the presentations.
 
 <hr/>
 
