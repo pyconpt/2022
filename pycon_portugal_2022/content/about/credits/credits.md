@@ -1,4 +1,4 @@
-title: credits
+title: Credits
 layout: simple
 
 This list of individuals is still growing. Nonetheless, these are our sincerest alphabetical thanks to everyone who have made contributions to this conference thus far:

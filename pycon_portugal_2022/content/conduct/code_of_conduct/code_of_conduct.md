@@ -1,4 +1,4 @@
-title: code of conduct
+title: Code of Conduct
 layout: simple
 
 Everybody who participates in PyCon Portugal in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organizers, volunteers, and event staff.
