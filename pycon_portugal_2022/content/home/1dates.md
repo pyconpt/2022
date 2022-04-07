@@ -4,7 +4,7 @@ layout: home_dates
 
 > #### April
 >
-> > 🎫 16th - Super Early Bird [Ticket sales](/tickets/) open*
+> > 🎫 8th - Super Early Bird [Ticket sales](/tickets/) open*
 > >
 > > ✈️ 18th - [Grants](/information/grants/) applications' form opens
 > >

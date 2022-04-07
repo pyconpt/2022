@@ -17,18 +17,14 @@ def links(request):
                     'PORTO': '/information/porto/',
                     'VENUE': '/information/venue/',
                     'GRANTS': '/information/grants/',
-                    'SPRINTS': '/information/sprints/',
                     'HOSPITALITY': '/information/hospitality/',
-                    # 'PARTY': '/information/party/',
                     'T-SHIRTS': '/information/tshirts/',
-                    # 'ANNOUNCEMENTS': '/information/announcements/',
                 },
             },
             'SPONSORS & JOBS': {
                 'dropdown': 'true',
                 'submenu': {
                     'SPONSORS': '/sponsors/sponsors',
-                    'SUPPORTERS': '/sponsors/supporters/',
                     'JOBS': '/sponsors/jobs/',
                     'SPONSORSHIP': '/sponsors/sponsorship/',
                 },

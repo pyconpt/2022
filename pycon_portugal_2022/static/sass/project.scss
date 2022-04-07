@@ -108,3 +108,8 @@ button:hover {
   color: white !important;
   background-color: base.$BgBlue !important;
 }
+
+tbody, td, tfoot, th, thead, tr {
+  border-width: 1px;
+  padding: 0.5rem;
+}

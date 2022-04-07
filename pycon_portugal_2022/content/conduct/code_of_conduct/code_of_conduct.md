@@ -7,7 +7,7 @@ The organizers will introduce a Code of Conduct team that will be primarily resp
 
 The team can be reached on [conduct@pycon.pt](mailto:conduct@pycon.pt).
 
-We would like to thank the PyCon Portugal 2019 CoC team for the awesome CoC (which we adapted with some minor modifications) and the response guidelines (which we have adopted almost unedited from 2018).
+We would like to thank the DjangoCon Europe 2019 CoC team for the awesome CoC (which we adapted with some minor modifications) and the response guidelines (which we have adopted almost unedited from DjangoCon Europe 2018).
 
 <hr/>
 
