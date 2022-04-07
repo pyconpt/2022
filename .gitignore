@@ -327,10 +327,6 @@ pycon_portugal_2022/media/
 
 .pytest_cache/
 .ipython/
-project.css
-project.min.css
-vendors.js
-*.min.js
 .env
 .envs/*
 !.envs/.local/
