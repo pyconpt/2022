@@ -8,5 +8,5 @@ They will be from organic materials and you will be able to select its specifica
 - T-shirts purchased until August 15 will be provided during the check-in at the venue: €25
 - T-shirts purchased after August 15 and up until September 30 will be mailed to you after the conference: €30 (inc. international shipping)
 
-<!-- [<center><button class="btn">Grab your t-shirt!</button></center>](https://pretix.evolutio.pt/evolutio/djceu2022/){:target="_blank"} -->
+[<center><button class="btn">Grab your t-shirt!</button></center>](https://pretix.evolutio.pt/evolutio/pyconpt2022/){:target="_blank"}
 

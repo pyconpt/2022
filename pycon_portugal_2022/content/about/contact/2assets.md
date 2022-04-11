@@ -9,4 +9,4 @@ Feel free to download any assets that you might need:
 * Logo (PNG)
     * [Circle](/static/images/logo/logo.png){:target="_blank" download="logo.png"}
     * [Rectangular](/static/images/logo/logo_mobile.png){:target="_blank" download="logo_rectangular.png"}
-* [Background](/static/images/backgorund/py_snake.svg){:target="_blank" download="background.svg"} (SVG)
+* [Background](/static/images/background/bg-pycon.svg){:target="_blank" download="background.svg"} (SVG)
