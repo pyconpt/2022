@@ -1,54 +1,70 @@
-# PyCon Portugal 2022
+<img src="pycon_portugal_2022/static/images/logo/logo_mobile.svg" alt="PyCon Portugal 2022" height="120px" />
 
-PyCon Portugal 2022
+🌍 [2022.pycon.pt](https://2022.pycon.pt/) \
+📍 Hybrid from Porto, Portugal 🇵🇹 \
+📅 September 24th
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-License: MIT
+## Running
 
-## Settings
+### Django Server
+First, make sure to have all requirements installed using:
+```bash
+$ pip install -r requirements/[ local | production ].txt
+```
 
-Moved to [settings](http://cookiecutter-django.readthedocs.io/en/latest/settings.html).
+And create a PostgreSQL database 'pycon_portugal_2022'
+* On Debian-based 10+: 
+```bash
+$ sudo su - postgres -c "createdb pycon_portugal_2022"
+```
 
-## Basic Commands
+Then start the server through gulp:
+```bash
+$ gulp
+...
+[Browsersync] Proxying: http://localhost:8000
+[Browsersync] Access URLs:
+ ---------------------------------------
+       Local: http://localhost:3000
+    External: http://10.101.176.121:3000
+ ---------------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ ---------------------------------------
+[Browsersync] Watching files...
+```
 
-### Setting Up Your Users
+### Docker Compose
 
--   To create a **normal user account**, just go to Sign Up and fill out the form. Once you submit it, you'll see a "Verify Your E-mail Address" page. Go to your console to see a simulated email verification message. Copy the link into your browser. Now the user's email should be verified and ready to go.
+First, make sure you have proper installation of [Docker](https://docs.docker.com/install/#supported-platforms/) and [Docker Compose](https://docs.docker.com/compose/install/).
 
--   To create an **superuser account**, use this command:
+Then, all need is build the container using the yaml file:
+```bash
+$ docker-compose -f local.yml build
+```
+And start the container:
+```bash
+$ docker-compose -f local.yml up
+```
 
-        $ python manage.py createsuperuser
+## Code of Conduct
 
-For convenience, you can keep your normal user logged in on Chrome and your superuser logged in on Firefox (or similar), so that you can see how the site behaves for both kinds of users.
+As a contributor, you can help us keep the Python community open and inclusive.
+Please read and follow our [Code of Conduct](pycon_portugal_2022/content/conduct/code_of_conduct/code_of_conduct.md).
 
-### Type checks
+## Getting Started
 
-Running type checks with mypy:
+Get started contributing by reading our [Contributing](CONTRIBUTING.md) guidelines.
 
-    $ mypy pycon_portugal_2022
+## Built With
 
-### Test coverage
+* [Python](https://docs.python.org/3/) - Programming language
+* [Django](https://docs.djangoproject.com/) - Web framework
 
-To run the tests, check your test coverage, and generate an HTML coverage report:
+## License
 
-    $ coverage run -m pytest
-    $ coverage html
-    $ open htmlcov/index.html
-
-#### Running tests with pytest
-
-    $ pytest
-
-### Live reloading and Sass CSS compilation
-
-Moved to [Live reloading and SASS compilation](http://cookiecutter-django.readthedocs.io/en/latest/live-reloading-and-sass-compilation.html).
-
-## Deployment
-
-The following details how to deploy this application.
-
-### Docker
-
-See detailed [cookiecutter-django Docker documentation](http://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html).
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
