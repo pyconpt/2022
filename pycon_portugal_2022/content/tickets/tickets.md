@@ -12,7 +12,7 @@ The following **ticket types** are available:
 
 - **Student Ticket [Super Early Bird] (€25)** - If you are currently enrolled as a full-time student or if you are currently without regular income. This ticket does not cover our costs for the conference, but we’ll be able to provide it to you thanks to other people paying more for their ticket than the minimal price.
 - **Individual Ticket [Super Early Bird] (€35)** - If you are paying your ticket from your personal money and are not being reimbursed by your employer.
-- **Business Ticket [SuperEarly Bird] (€45)** - If your employer is paying for the ticket or reimbursing you for your conference expenses.
+- **Business Ticket [Super Early Bird] (€45)** - If your employer is paying for the ticket or reimbursing you for your conference expenses.
 
 [<center><button class="btn">Grab your ticket!</button></center>](https://pretix.evolutio.pt/evolutio/pyconpt2022/){:target="_blank"}
 
