@@ -3,7 +3,7 @@ layout: simple
 
 This page contains all information regarding the proposal process for PyCon Portugal – we will update it regularly as new information becomes available.
 
-The talk submissions are ** opening soon **! If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt). Don't forget to follow us on Twitter [@PyConPT](https://twitter.com/PyConPT){:target="_blank"} for the latest up to date information!
+The talk submissions are **opening soon**! If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt). Don't forget to follow us on Twitter [@PyConPT](https://twitter.com/PyConPT){:target="_blank"} for the latest up to date information!
 
 ** Deadline will be 2022-07-31 23h59 UTC 🔥 **- precisely speaking, that is June 31st, 2022, 23:59 UTC. You can edit your submissions up until this date.
 
