@@ -16,9 +16,9 @@ The following **ticket types** are available:
 
 [<center><button class="btn">Grab your ticket!</button></center>](https://pretix.evolutio.pt/evolutio/pyconpt2022/){:target="_blank"}
 
-** Super Early Bird Ticket sales close May 1st or until their quota is reached (whichever comes first). ** Be sure to grab you ticket ASAP!
+** Super Early Bird Ticket sales close May 1st or until their quota is reached (whichever comes first). ** Be sure to grab your ticket ASAP!
 
-The tickets include the following food: morning snack, lunch, and afternoon snack. Please don't forget to ** add you dietary restrictions when purchasing your ticket! **
+The tickets include the following food: morning snack, lunch, and afternoon snack. Please don't forget to ** add your dietary restrictions when purchasing your ticket! **
 
 ---
 
