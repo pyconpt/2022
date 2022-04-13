@@ -5,7 +5,7 @@ This page contains all information regarding the proposal process for PyCon Port
 
 The talk submissions are **opening soon**! If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt). Don't forget to follow us on Twitter [@PyConPT](https://twitter.com/PyConPT){:target="_blank"} for the latest up to date information!
 
-** Deadline will be 2022-07-31 23h59 UTC 🔥 **- precisely speaking, that is June 31st, 2022, 23:59 UTC. You can edit your submissions up until this date.
+** Deadline will be 2022-06-30 23h59 UTC 🔥 **- precisely speaking, that is June 30th, 2022, 23:59 UTC. You can edit your submissions up until this date.
 
 If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to [Slack](https://pyconportugal.slack.com){:target="_blank"} to find previous speakers and participants to discuss your idea with. ** When in doubt, submit your talk 😉!**
 
