@@ -25,7 +25,7 @@ layout: home_dates
 >
 > > 🎫 20th - Early Bird [Ticket sales](/tickets/) close*
 > > 
-> > 🎤 31st - [Call for Participation](/talks/cfp/) deadline
+> > 🎤 30th - [Call for Participation](/talks/cfp/) deadline
 
 <span></span>
 
