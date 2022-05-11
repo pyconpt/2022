@@ -13,9 +13,7 @@ With our limited funds, we can't promise you will receive a grant, but if you're
 
 If you have questions, you can write to [2022@pycon.pt](mailto:2022@pycon.pt).
 
-**The application window will open soon, on April 18th!** 
+**The application window closes on July 30th!** 
 
-<!--
-<center>[<button class="btn">Apply for a Grant Here!</button>](https://forms.gle/ftJ3WWWNbhFE2ZnC8){:target="_blank"}</center>
--->
+<center>[<button class="btn">Apply for a Grant Here!</button>](https://forms.gle/ZBMjGnDycT8TusiE9){:target="_blank"}</center>
 
