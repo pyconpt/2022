@@ -10,13 +10,13 @@ We are still drawing up the best [t-shirts](/information/tshirts/) for you! In t
 
 The following **ticket types** are available:
 
-- **Student Ticket [Super Early Bird] (€25)** - If you are currently enrolled as a full-time student or if you are currently without regular income. This ticket does not cover our costs for the conference, but we’ll be able to provide it to you thanks to other people paying more for their ticket than the minimal price.
-- **Individual Ticket [Super Early Bird] (€35)** - If you are paying your ticket from your personal money and are not being reimbursed by your employer.
-- **Business Ticket [Super Early Bird] (€45)** - If your employer is paying for the ticket or reimbursing you for your conference expenses.
+- **Student Ticket [Early Bird] (€35)** - If you are currently enrolled as a full-time student or if you are currently without regular income. This ticket does not cover our costs for the conference, but we’ll be able to provide it to you thanks to other people paying more for their ticket than the minimal price.
+- **Individual Ticket [Early Bird] (€45)** - If you are paying your ticket from your personal money and are not being reimbursed by your employer.
+- **Business Ticket [Early Bird] (€55)** - If your employer is paying for the ticket or reimbursing you for your conference expenses.
 
 [<center><button class="btn">Grab your ticket!</button></center>](https://pretix.evolutio.pt/evolutio/pyconpt2022/){:target="_blank"}
 
-** Super Early Bird Ticket sales close May 1st or until their quota is reached (whichever comes first). ** Be sure to grab your ticket ASAP!
+** Early Bird Ticket sales close June 20th or until their quota is reached (whichever comes first). ** Be sure to grab your ticket ASAP!
 
 The tickets include the following food: morning snack, lunch, and afternoon snack. Please don't forget to ** add your dietary restrictions when purchasing your ticket! **
 
