@@ -7,7 +7,7 @@ The talk submissions are **open**! If you have any questions, please do not hesi
 
 ** Deadline will be 2022-06-30 23h59 UTC 🔥 **- precisely speaking, that is June 30th, 2022, 23:59 UTC. You can edit your submissions up until this date.
 
-If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to [Slack](https://pyconportugal.slack.com){:target="_blank"} to find previous speakers and participants to discuss your idea with. ** When in doubt, submit your talk 😉!**
+If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to [Slack](https://join.slack.com/t/pyconportugal/shared_invite/zt-1ckszg1ye-QDgxx3lOkC15Ocal8xhCSg){:target="_blank"} to find previous speakers and participants to discuss your idea with. ** When in doubt, submit your talk 😉!**
 
 <center>[<button class="btn">Submit your talk here!</button>](https://pretalx.evolutio.pt/pyconpt2022/cfp){:target="_blank"}</center>
 
