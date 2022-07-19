@@ -31,7 +31,7 @@ layout: home_dates
 
 > #### July
 >
-> > 🎙 15th - [Talks](https://twitter.com/pyconeurope){:target="_blank"} start being published
+> > 🎙 15th - [Talks](https://twitter.com/pyconpt){:target="_blank"} start being published
 > >
 > > ✈️ 30th - [Grants](/information/grants/) application deadline
 
