@@ -1,6 +1,17 @@
 title: Sponsors
 layout: simple
 
+>#### Platinum
+
+> > [![issuu](/static/images/sponsors/issuu.png){:class='sponsor'}](https://issuu.com/){:target="_blank"}
+
+<span class="d-none"></span>
+
+>#### Gold
+
+> > [![vonage](/static/images/sponsors/vonage.png){:class='sponsor large'}](https://www.vonage.com/developer-center/){:target="_blank"}
+
+<span class="d-none"></span>
 
 >#### Grants
 
