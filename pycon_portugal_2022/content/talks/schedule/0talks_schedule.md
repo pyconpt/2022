@@ -1,14 +1,8 @@
 title: Talks Schedule
 layout: simple
 
-** More info coming soon after the talks' selection... **
-
-Follow us on social media for up to date information - see footer below!
-
-<!--
 ** The event schedule is now available! **
 
-The conference talks & workshops will take place from 9AM to 6PM (UTC+2), June 2-4.
+The conference talks & workshops will take place from 9:00 AM to 6:30 PM, September 24.
 
-<center>[<button class="btn">View schedule!</button>](https://cfp.2021.pycon.pt/2021/schedule/){:target="_blank"}</center>
--->
+<center>[<button class="btn">View schedule!</button>](https://pretalx.evolutio.pt/pyconpt2022/schedule/){:target="_blank"}</center>
