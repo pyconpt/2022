@@ -2,7 +2,7 @@
   "name": "pycon_portugal_2022",
   "version": "0.1.0",
   "devDependencies": {
-    "autoprefixer": "^10.4.0",
+    "autoprefixer": "^10.4.9",
     "browser-sync": "^2.27.7",
     "cssnano": "^5.0.11",
     "gulp": "^4.0.2",
