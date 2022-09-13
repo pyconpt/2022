@@ -7,9 +7,9 @@ layout: simple
 
 <span class="d-none"></span>
 
->#### Gold
+>#### Bronze
 
-> > [![vonage](/static/images/sponsors/vonage.png){:class='sponsor large'}](https://www.vonage.com/developer-center/){:target="_blank"}
+> > [![vonage](/static/images/sponsors/vonage.png){:class='sponsor large'}](https://vonage.dev/pyconportugal2022){:target="_blank"}
 
 <span class="d-none"></span>
 
