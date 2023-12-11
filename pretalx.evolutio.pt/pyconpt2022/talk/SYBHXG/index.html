@@ -1,0 +1,281 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    
+<!-- Mirrored from pretalx.evolutio.pt/pyconpt2022/talk/SYBHXG/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Dec 2023 14:51:03 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+        <meta charset="utf-8">
+        <title>Picking What to Watch Next - build a recommendation system ::  PyCon Portugal 2022 :: pretalx</title>
+        <meta name="title" content="Picking What to Watch Next - build a recommendation system  - PyCon Portugal 2022 pretalx">
+        <meta name="description" content="In this workshop, we will use MovieLens Datasets to build a very basic recommendation engine. The model will be KNN Item-Based, meaning based on show information, it suggests users who have watched X show a Y show which is similar to that one. While doing it, we will do data transformation with Pandas and Scipy, and train the model with Scikit-learn.
+
+**For whom is your Workshop**
+Data Scientist or developers who have no experience in building a recommendation engine and is curious how it can be done. The model we built is in no way good enough to be deployed as a product but would be a very good first model to learn from and get the idea of how machine learning can be used in finding correlations between items.
+
+**Short Format of your Workshop**
+Overview-5 min, Lecture - 20 mins, Hands-on training - 30 mins, Closing - 5 mins
+
+**Workshop Agenda**
+Overview-5 min
+
+In this session, we will go through the workshop structure, introduce the steps that we take and the tools that we will be using in the workshop.
+
+Lecture - 20 mins
+
+In this session, through slides and presentation, we will go through some knowledge about recommendation engines, what models are available in the market and how they work. We will discuss their advantages and disadvantages and the fundamental theories that work behind the scenes. This will include the model that we are going to build and the more complicated ones that are more commonly used in business.
+
+Hands-on training - 30 mins
+
+At the start of this session, we will have a look at the project skeleton and look at the functions that we will implement in this workshop. (5 mins)
+
+Then we will work on the part that transforms the data into a format that is ready to be trained with the KNN model. (10mins)
+
+Afterwards, we will work on the part that train the KNN model. Here we will run some experiments and play with different parameters, for example, different similarity metrics, in training. (10 mins)
+
+Finally, we will test our recommender in the CLI. (5mins)
+
+Bonus: we will test our recommender in the browser with PyScript
+
+Closing - 5 mins
+
+In this session, we will wrap up what we learned and suggest further learning materials to those who may want to study further in this topic.
+
+**What is required from attendees**
+A computer with a stable internet connection; Python 3.9 or above and poetry installed; An opened mind and ready to learn something new
+
+**What Attendees will Learn**
+By the end of the workshop, you will have been built your first recommendation engine. You will be given enough information about how to build a better one and where to study further in you are inspired to be an expert in this field.
+
+**Course Benefits**
+You will have learned a new skill set that may assist you in your next data science project. You will be inspired to study further to be able to build a better recommendation engine or do your own research on related topics.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="PyCon Portugal 2022, pyconpt2022, 2022, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#468F1F">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="pyconlogo-black_Gp1AvXk.png">
+    <meta property="og:image" content="pyconlogo-black_Gp1AvXk.png">
+        <meta property="og:title" content="Picking What to Watch Next - build a recommendation system PyCon Portugal 2022">
+        <meta property="og:description" content="In this workshop, we will use MovieLens Datasets to build a very basic recommendation engine. The model will be KNN Item-Based, meaning based on show information, it suggests users who have watched X show a Y show which is similar to that one. While doing it, we will do data transformation with Pandas and Scipy, and train the model with Scikit-learn.
+
+**For whom is your Workshop**
+Data Scientist or developers who have no experience in building a recommendation engine and is curious how it can be done. The model we built is in no way good enough to be deployed as a product but would be a very good first model to learn from and get the idea of how machine learning can be used in finding correlations between items.
+
+**Short Format of your Workshop**
+Overview-5 min, Lecture - 20 mins, Hands-on training - 30 mins, Closing - 5 mins
+
+**Workshop Agenda**
+Overview-5 min
+
+In this session, we will go through the workshop structure, introduce the steps that we take and the tools that we will be using in the workshop.
+
+Lecture - 20 mins
+
+In this session, through slides and presentation, we will go through some knowledge about recommendation engines, what models are available in the market and how they work. We will discuss their advantages and disadvantages and the fundamental theories that work behind the scenes. This will include the model that we are going to build and the more complicated ones that are more commonly used in business.
+
+Hands-on training - 30 mins
+
+At the start of this session, we will have a look at the project skeleton and look at the functions that we will implement in this workshop. (5 mins)
+
+Then we will work on the part that transforms the data into a format that is ready to be trained with the KNN model. (10mins)
+
+Afterwards, we will work on the part that train the KNN model. Here we will run some experiments and play with different parameters, for example, different similarity metrics, in training. (10 mins)
+
+Finally, we will test our recommender in the CLI. (5mins)
+
+Bonus: we will test our recommender in the browser with PyScript
+
+Closing - 5 mins
+
+In this session, we will wrap up what we learned and suggest further learning materials to those who may want to study further in this topic.
+
+**What is required from attendees**
+A computer with a stable internet connection; Python 3.9 or above and poetry installed; An opened mind and ready to learn something new
+
+**What Attendees will Learn**
+By the end of the workshop, you will have been built your first recommendation engine. You will be given enough information about how to build a better one and where to study further in you are inspired to be an expert in this field.
+
+**Course Benefits**
+You will have learned a new skill set that may assist you in your next data science project. You will be inspired to study further to be able to build a better recommendation engine or do your own research on related topics.">
+        <meta property="og:url" content="index.html">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="../../../static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="../../../static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="../../../static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="../../../static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="https://pretalx.evolutio.pt/media/pyconpt2022/cfp.9baa08ef01acbb11.css"/>
+            <link rel="stylesheet" type="text/css" href="https://pretalx.evolutio.pt/media/pyconpt2022/agenda.4b9a92242aa5f1ab.css"/>
+        
+        
+        <script src="../../../static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="PyCon Portugal 2022 API" href="https://pretalx.evolutio.pt/api/events/pyconpt2022/talks/SYBHXG" />
+
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="pt-PT">
+        <div id="top-bg" class="header bg-primary">
+            
+                <img src="https://pretalx.evolutio.pt/media/pyconpt2022/img/banner-youtube-pycon_4g4eN92.png" id="header-image">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="../../schedule/index.html">
+                        
+                            <img src="https://pretalx.evolutio.pt/media/pyconpt2022/img/pyconlogo-black_Gp1AvXk.png" id="event-logo" alt="The event's logo">
+                        
+                    </a>
+                </h1>
+                <div class="d-flex" id="header-row">
+                    
+                    
+                        <a href="../../login/index.html">login</a>
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                Picking What to Watch Next - build a recommendation system
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="../pyconpt2022-SYBHXG.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                        <a href="feedback/index.html"
+                           class="btn btn-success">
+                            <i class="fa fa-comments"></i> 
+                        </a>
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    09-24, 16:40–17:30 (Europe/Lisbon), Workshops 
+                
+                
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                
+                
+                <section class="abstract">
+                    <p>Recommendation algorithms are the driving force of many businesses: e-commerce, personalized advertisement, on-demand entertainment. Computer algorithms know what you like and present you with things that are customized for you. Here we will explore how to do that by building a system ourselves.</p>
+                </section>
+                
+                    <hr />
+                
+                <section class="description">
+                    <p>In this workshop, we will use MovieLens Datasets to build a very basic recommendation engine. The model will be KNN Item-Based, meaning based on show information, it suggests users who have watched X show a Y show which is similar to that one. While doing it, we will do data transformation with Pandas and Scipy, and train the model with Scikit-learn.</p>
+<p><strong>For whom is your Workshop</strong><br>
+Data Scientist or developers who have no experience in building a recommendation engine and is curious how it can be done. The model we built is in no way good enough to be deployed as a product but would be a very good first model to learn from and get the idea of how machine learning can be used in finding correlations between items.</p>
+<p><strong>Short Format of your Workshop</strong><br>
+Overview-5 min, Lecture - 20 mins, Hands-on training - 30 mins, Closing - 5 mins</p>
+<p><strong>Workshop Agenda</strong><br>
+Overview-5 min</p>
+<p>In this session, we will go through the workshop structure, introduce the steps that we take and the tools that we will be using in the workshop.</p>
+<p>Lecture - 20 mins</p>
+<p>In this session, through slides and presentation, we will go through some knowledge about recommendation engines, what models are available in the market and how they work. We will discuss their advantages and disadvantages and the fundamental theories that work behind the scenes. This will include the model that we are going to build and the more complicated ones that are more commonly used in business.</p>
+<p>Hands-on training - 30 mins</p>
+<p>At the start of this session, we will have a look at the project skeleton and look at the functions that we will implement in this workshop. (5 mins)</p>
+<p>Then we will work on the part that transforms the data into a format that is ready to be trained with the KNN model. (10mins)</p>
+<p>Afterwards, we will work on the part that train the KNN model. Here we will run some experiments and play with different parameters, for example, different similarity metrics, in training. (10 mins)</p>
+<p>Finally, we will test our recommender in the CLI. (5mins)</p>
+<p>Bonus: we will test our recommender in the browser with PyScript</p>
+<p>Closing - 5 mins</p>
+<p>In this session, we will wrap up what we learned and suggest further learning materials to those who may want to study further in this topic.</p>
+<p><strong>What is required from attendees</strong><br>
+A computer with a stable internet connection; Python 3.9 or above and poetry installed; An opened mind and ready to learn something new</p>
+<p><strong>What Attendees will Learn</strong><br>
+By the end of the workshop, you will have been built your first recommendation engine. You will be given enough information about how to build a better one and where to study further in you are inspired to be an expert in this field.</p>
+<p><strong>Course Benefits</strong><br>
+You will have learned a new skill set that may assist you in your next data science project. You will be inspired to study further to be able to build a better recommendation engine or do your own research on related topics.</p>
+                </section>
+                
+            </section>
+            
+            <section>
+                
+            </section>
+        </div>
+    </div>
+    
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="../../speaker/GTVKWZ/index.html">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="https://pretalx.evolutio.pt/media/avatars/Cheuk_Ting_Ho_j3c5OuQ.JPG">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="../../speaker/GTVKWZ/index.html">Cheuk Ting Ho</a>
+                    </div>
+                    <div class="abstract"><p>Before working in Developer Relations, Cheuk has been a Data Scientist in various companies which demands high numerical and programmatical skills, especially in Python. To follow her passion for the tech community, now Cheuk is the Developer Advocate for Anaconda.</p>
+<p>Besides her work, Cheuk enjoys speaking at various conferences. Cheuk also organises events for developers. Cheuk has organised conferences including EuroPython (of which she is a board member), PyData Global and Pyjamas Conf. Believing in Tech Diversity and Inclusion, Cheuk constantly organizes workshops and mentored sprints for minority groups. In 2021, Cheuk has become a Python Software Foundation fellow.</p></div>
+                    
+                </div>
+            </div>
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                
+
+
+    powered by <a href="https://pretalx.com/" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:2022@pycon.pt">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+
+<!-- Mirrored from pretalx.evolutio.pt/pyconpt2022/talk/SYBHXG/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Dec 2023 14:51:05 GMT -->
+</html>

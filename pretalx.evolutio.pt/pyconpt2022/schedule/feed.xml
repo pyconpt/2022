@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom"><title>PyCon Portugal 2022 schedule updates</title><link href="https://pretalx.evolutio.pt/pyconpt2022/schedule/" rel="alternate"/><link href="https://pretalx.evolutio.pt/pyconpt2022/schedule/feed.xml" rel="self"/><id>https://pretalx.evolutio.pt/pyconpt2022/schedule/feed.xml</id><updated>2022-09-24T10:39:09.154315+00:00</updated><entry><title>New PyCon Portugal 2022 schedule released (1.2)</title><link href="https://pretalx.evolutio.pt/pyconpt2022/schedule/changelog/#1.2" rel="alternate"/><published>2022-09-24T10:39:09.154315+00:00</published><id>https://pretalx.evolutio.pt/pyconpt2022/schedule/changelog/#1.2</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2022 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+        
+            &lt;p&gt;Sadly, we had to cancel sessions:&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        “Three Musketeers: Sherlock Holmes, Mathematics and Python”
+                        
+                            by Gajendra Deshpande
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        “Pydon&amp;#x27;ts – Write elegant Python code”
+                        
+                            by Rodrigo Girão Serrão
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;We had to move some sessions, so if you were planning on seeing them, check their new dates or locations:&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;&lt;a href="/pyconpt2022/talk/ZYPFGA/"&gt;
+                        “Connecting those thoughts: Personal knowledge management with Python”
+                        
+                            by Mark Farragher
+                        
+                    &lt;/a&gt;
+                        
+                            (Sept. 24, 2022, 2:05 p.m. → Sept. 24, 2022, 2:45 p.m.)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;&lt;a href="/pyconpt2022/talk/JJGSCK/"&gt;
+                        “Bulletproof Python – Property-Based Testing with Hypothesis”
+                        
+                            by Michael Seifert
+                        
+                    &lt;/a&gt;
+                        
+                            (Sept. 24, 2022, 1:30 p.m. → Sept. 24, 2022, 2:05 p.m.)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;&lt;a href="/pyconpt2022/talk/RTA7MU/"&gt;
+                        “Automating mundane activities using Python”
+                        
+                            by Ashmi Banerjee
+                        
+                    &lt;/a&gt;
+                        
+                            (Sept. 24, 2022, 1:30 p.m. → Sept. 24, 2022, 2:05 p.m.)
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2022 schedule released (1.1)</title><link href="https://pretalx.evolutio.pt/pyconpt2022/schedule/changelog/#1.1" rel="alternate"/><published>2022-08-16T16:23:47.141363+00:00</published><id>https://pretalx.evolutio.pt/pyconpt2022/schedule/changelog/#1.1</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2022 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have a new session: 
+                
+                    &lt;a href="/pyconpt2022/talk/AZ9GSQ/"&gt;
+                        “** Sunset Party ** sponsored by Issuu”
+                        
+                    &lt;/a&gt;.
+                
+        &lt;/p&gt;
+    
+
+    
+
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2022 schedule released (1.0)</title><link href="https://pretalx.evolutio.pt/pyconpt2022/schedule/changelog/#1.0" rel="alternate"/><published>2022-08-05T09:45:50.312852+00:00</published><id>https://pretalx.evolutio.pt/pyconpt2022/schedule/changelog/#1.0</id><summary type="html">
+
+&lt;p&gt;
+    
+        The first PyCon Portugal 2022 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released our first schedule!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry></feed>

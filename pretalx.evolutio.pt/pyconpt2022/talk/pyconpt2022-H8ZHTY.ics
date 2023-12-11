@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//H8ZHTY
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-H8ZHTY@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T104500
+DTEND;TZID=WET:20220924T112000
+DESCRIPTION:Python\, as a one-stop-shop for Machine Learning\, Geospatial A
+ nalytics\, Optimization Algorithms\, and Visualization Tools\, can be leve
+ raged to create a simple yet effective sustainability decision-making meth
+ odology with just four steps: Geospatial Indexing\, Feature Engineering\, 
+ Predictive Scoring\, and Score Optimization.\n\nWith it\, it's possible to
+  tackle distinct sustainable development issues\, from mobility transition
+  to light pollution in a way that decision-makers can quickly implement it
+  to take action for the Sustainable Development Goals.
+DTSTAMP:20231211T145048Z
+LOCATION:Auditorium
+SUMMARY:A Python-Based Methodology for Solving Sustainability Problems with
+  Data Science - Diogo Valente Polónia\, João Afonso Pereira\, Patrícia 
+ Rocha\, João Matos
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/H8ZHTY/
+END:VEVENT
+END:VCALENDAR

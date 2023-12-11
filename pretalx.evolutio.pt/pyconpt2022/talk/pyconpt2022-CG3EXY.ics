@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//CG3EXY
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-CG3EXY@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T114000
+DTEND;TZID=WET:20220924T123000
+DESCRIPTION:In this session\, we will train a ML model to predict future RO
+ I of variable advertising spend budgets across multiple channels including
+  search\, video\, social media\, and email using Snowpark for Python and s
+ cikit-learn.
+DTSTAMP:20231211T145054Z
+LOCATION:Workshops
+SUMMARY:Training\, Deploying\, and Running a ML model using Python and Snow
+ park - Dash
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/CG3EXY/
+END:VEVENT
+END:VCALENDAR

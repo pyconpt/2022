@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pyconpt2022//GSVUET
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-YDHJTF@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T154500
+DTEND;TZID=WET:20220924T163500
+DESCRIPTION:Natural Language Processing (NLP) is one of the most exciting f
+ ields in Machine Learning and AI. In this beginner-friendly workshop\, I w
+ ill introduce Keras as a Python library for applying NLP techniques on a m
+ ulti-label emotion classification dataset and present how to use it to bui
+ ld a deep learning classifier. Besides\, I will also compare and demonstra
+ te how applying NLP techniques improve the predictability of a model and t
+ hen\, tune a neural network using Keras Tuner to boost the overall model p
+ erformance.
+DTSTAMP:20231211T145025Z
+LOCATION:Workshops
+SUMMARY:Building and Optimizing a Multiclass Text Classifier using Keras - 
+ Nabanita Roy
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/YDHJTF/
+END:VEVENT
+END:VCALENDAR

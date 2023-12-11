@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//CQURNZ
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-CQURNZ@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T165500
+DTEND;TZID=WET:20220924T172500
+DESCRIPTION:What happens on the computer when you run print(“Hello world
+ ”)? This talk attempts to dissect how Python code gets translated for ex
+ ecution. While many programmers can live without interacting with compiler
+  internals\, a stronger understanding of CPython can help make us better p
+ rogrammers.
+DTSTAMP:20231211T145106Z
+LOCATION:Auditorium
+SUMMARY:Why "Hello World" is a Massive Operation - From Python code to Stac
+ k Virtual Machine - Richard Rowland
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/CQURNZ/
+END:VEVENT
+END:VCALENDAR

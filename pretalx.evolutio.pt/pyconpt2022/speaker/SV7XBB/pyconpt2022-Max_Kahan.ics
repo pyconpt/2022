@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pyconpt2022//SV7XBB
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-VSHP3V@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T162000
+DTEND;TZID=WET:20220924T165500
+DESCRIPTION:This year\, I took over two open-source Python projects that ha
+ dn’t been maintained for years. They used deprecated frameworks and old 
+ Python versions. Despite the projects being heavily io-driven and calling 
+ web-based APIs\, they used synchronous methods. A refactor had been starte
+ d\, then never finished. There were branches full of uncommitted code\, te
+ sts that tested nothing\, irrelevant dependencies… you name it!\n\nAfter
+  making progress with getting the code into shape\, I distilled what I lea
+ rned into clear steps. When you leave this talk\, you will know exactly wh
+ at to do when you want to improve the performance\, security and developme
+ nt ease of Python projects you maintain.\n\nWe’ll talk about how to fix 
+ all of the above and more\, including: moving to async programming\, addin
+ g type validation with Pydantic\, overhauling tests\, updating without any
+ thing exploding\, and choosing the right dependencies.\n\nFinally\, I’ll
+  give you a take-home checklist for updating an older project so doing thi
+ s at home can be efficient and pain-free.
+DTSTAMP:20231211T145020Z
+LOCATION:Auditorium
+SUMMARY:Use my n-point checklist to become exponentially happier with your 
+ Python project - Max Kahan
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/VSHP3V/
+END:VEVENT
+END:VCALENDAR

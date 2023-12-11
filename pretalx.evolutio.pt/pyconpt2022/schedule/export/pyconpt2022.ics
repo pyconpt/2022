@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-WEVRTF@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T090000
+DTEND;TZID=WET:20220924T091500
+DESCRIPTION:Opening Session
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Opening Session - 
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/WEVRTF/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-PQSJBK@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T091500
+DTEND;TZID=WET:20220924T101500
+DESCRIPTION:As a programmer\, I often ask myself: what am I doing?!
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:KEYNOTE: What am I doing? - Daniele Procida
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/PQSJBK/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-TUZZMY@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T104500
+DTEND;TZID=WET:20220924T113500
+DESCRIPTION:Working with data can be challenging: it often doesn’t come i
+ n the best format for analysis\, and understanding it well enough to extra
+ ct insights requires both time and the skills to filter\, aggregate\, resh
+ ape\, and visualize it. This session will equip you with the knowledge you
+  need to effectively use the pandas library to make this process easier.
+DTSTAMP:20231211T144446Z
+LOCATION:Workshops
+SUMMARY:Introduction to Data Analysis Using Pandas - Stefanie Molin
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/TUZZMY/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-H8ZHTY@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T104500
+DTEND;TZID=WET:20220924T112000
+DESCRIPTION:Python\, as a one-stop-shop for Machine Learning\, Geospatial A
+ nalytics\, Optimization Algorithms\, and Visualization Tools\, can be leve
+ raged to create a simple yet effective sustainability decision-making meth
+ odology with just four steps: Geospatial Indexing\, Feature Engineering\, 
+ Predictive Scoring\, and Score Optimization.\n\nWith it\, it's possible to
+  tackle distinct sustainable development issues\, from mobility transition
+  to light pollution in a way that decision-makers can quickly implement it
+  to take action for the Sustainable Development Goals.
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:A Python-Based Methodology for Solving Sustainability Problems with
+  Data Science - Diogo Valente Polónia\, João Afonso Pereira\, Patrícia 
+ Rocha\, João Matos
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/H8ZHTY/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-ETRAXR@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T112000
+DTEND;TZID=WET:20220924T115500
+DESCRIPTION:The secret of becoming a FastAPI Expert will be revealed. 🤫\
+ n\nOn this talk\, you'll understand how you can help the community\, and r
+ eceive guidelines\nto be become an expert yourself. 🔥
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:How to become a FastAPI Expert - Marcelo Trylesinski
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/ETRAXR/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-CG3EXY@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T114000
+DTEND;TZID=WET:20220924T123000
+DESCRIPTION:In this session\, we will train a ML model to predict future RO
+ I of variable advertising spend budgets across multiple channels including
+  search\, video\, social media\, and email using Snowpark for Python and s
+ cikit-learn.
+DTSTAMP:20231211T144446Z
+LOCATION:Workshops
+SUMMARY:Training\, Deploying\, and Running a ML model using Python and Snow
+ park - Dash
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/CG3EXY/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-DY77WF@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T115500
+DTEND;TZID=WET:20220924T123000
+DESCRIPTION:Medical Charts contain information which is documented in tradi
+ tional Handwritten format which cannot be processed by NLP. Let's dig into
+  how to build an API which detect handwritten information using FastAPI.
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Building a Handwritten Text Detection API for Medical Charts - Pras
+ hant Nigam
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/DY77WF/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-RTA7MU@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T140500
+DTEND;TZID=WET:20220924T143500
+DESCRIPTION:Do you like sending 200 emails\, checking for appointments on a
+  website every 15 minutes or copying a lot of files? No? Thought so! That
+ ’s why in this talk you will learn how to automate all of these tasks an
+ d more using the magical powers of Python.
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Automating mundane activities using Python - Ashmi Banerjee
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/RTA7MU/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-JJGSCK@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T140500
+DTEND;TZID=WET:20220924T145500
+DESCRIPTION:Property-based testing is a great benefit to the robustness and
+  maintainability of your software. Yet\, the technique is still vastly und
+ erused in the Python community. The workshop gives a hands-on introduction
+  to Hypothesis and practices different approaches for writing property-bas
+ ed tests.
+DTSTAMP:20231211T144446Z
+LOCATION:Workshops
+SUMMARY:Bulletproof Python – Property-Based Testing with Hypothesis - Mic
+ hael Seifert
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/JJGSCK/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-ZYPFGA@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T144500
+DTEND;TZID=WET:20220924T151500
+DESCRIPTION:Apps such as Obsidian.md have revolutionised note-taking for th
+ e digital age\, through connected markdown files. I discuss how I develope
+ d a Python package that enabled me to become more effective at learning at
+  university and built a knowledge graph of 500+ notes.
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Connecting those thoughts: Personal knowledge management with Pytho
+ n - Mark Farragher
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/ZYPFGA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-YDHJTF@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T154500
+DTEND;TZID=WET:20220924T163500
+DESCRIPTION:Natural Language Processing (NLP) is one of the most exciting f
+ ields in Machine Learning and AI. In this beginner-friendly workshop\, I w
+ ill introduce Keras as a Python library for applying NLP techniques on a m
+ ulti-label emotion classification dataset and present how to use it to bui
+ ld a deep learning classifier. Besides\, I will also compare and demonstra
+ te how applying NLP techniques improve the predictability of a model and t
+ hen\, tune a neural network using Keras Tuner to boost the overall model p
+ erformance.
+DTSTAMP:20231211T144446Z
+LOCATION:Workshops
+SUMMARY:Building and Optimizing a Multiclass Text Classifier using Keras - 
+ Nabanita Roy
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/YDHJTF/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-BC97YZ@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T154500
+DTEND;TZID=WET:20220924T162000
+DESCRIPTION:Have you ever looked at a text and wondered how on earth it cou
+ ld be used in a machine learning model? How do we get models to understand
+  what we’re reading? In this talk\, we’ll examine different ways we ca
+ n extract meaning from text for use in modelling.
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Text to … vectors? How feature engineering works in natural langu
+ age processing - Jodie Burchell
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/BC97YZ/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-VSHP3V@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T162000
+DTEND;TZID=WET:20220924T165500
+DESCRIPTION:This year\, I took over two open-source Python projects that ha
+ dn’t been maintained for years. They used deprecated frameworks and old 
+ Python versions. Despite the projects being heavily io-driven and calling 
+ web-based APIs\, they used synchronous methods. A refactor had been starte
+ d\, then never finished. There were branches full of uncommitted code\, te
+ sts that tested nothing\, irrelevant dependencies… you name it!\n\nAfter
+  making progress with getting the code into shape\, I distilled what I lea
+ rned into clear steps. When you leave this talk\, you will know exactly wh
+ at to do when you want to improve the performance\, security and developme
+ nt ease of Python projects you maintain.\n\nWe’ll talk about how to fix 
+ all of the above and more\, including: moving to async programming\, addin
+ g type validation with Pydantic\, overhauling tests\, updating without any
+ thing exploding\, and choosing the right dependencies.\n\nFinally\, I’ll
+  give you a take-home checklist for updating an older project so doing thi
+ s at home can be efficient and pain-free.
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Use my n-point checklist to become exponentially happier with your 
+ Python project - Max Kahan
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/VSHP3V/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-SYBHXG@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T164000
+DTEND;TZID=WET:20220924T173000
+DESCRIPTION:Recommendation algorithms are the driving force of many busines
+ ses: e-commerce\, personalized advertisement\, on-demand entertainment. Co
+ mputer algorithms know what you like and present you with things that are 
+ customized for you. Here we will explore how to do that by building a syst
+ em ourselves.
+DTSTAMP:20231211T144446Z
+LOCATION:Workshops
+SUMMARY:Picking What to Watch Next - build a recommendation system - Cheuk 
+ Ting Ho
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/SYBHXG/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-CQURNZ@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T165500
+DTEND;TZID=WET:20220924T172500
+DESCRIPTION:What happens on the computer when you run print(“Hello world
+ ”)? This talk attempts to dissect how Python code gets translated for ex
+ ecution. While many programmers can live without interacting with compiler
+  internals\, a stronger understanding of CPython can help make us better p
+ rogrammers.
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Why "Hello World" is a Massive Operation - From Python code to Stac
+ k Virtual Machine - Richard Rowland
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/CQURNZ/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-RJZQQY@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T173000
+DTEND;TZID=WET:20220924T181500
+DESCRIPTION:Lightning Talks
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Lightning Talks - 
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/RJZQQY/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-NLHXPL@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T181500
+DTEND;TZID=WET:20220924T183000
+DESCRIPTION:Closing Session
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:Closing Session - 
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/NLHXPL/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pyconpt2022-AZ9GSQ@pretalx.evolutio.pt
+DTSTART;TZID=WET:20220924T183000
+DTEND;TZID=WET:20220924T200000
+DESCRIPTION:Sunset Party sponsored by Issuu
+DTSTAMP:20231211T144446Z
+LOCATION:Auditorium
+SUMMARY:** Sunset Party ** sponsored by Issuu - 
+URL:https://pretalx.evolutio.pt/pyconpt2022/talk/AZ9GSQ/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<iCalendar xmlns:pentabarf='http://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
+    <vcalendar>
+        <version>2.0</version>
+        <prodid>-//Pentabarf//Schedule//EN</prodid>
+        <x-wr-caldesc></x-wr-caldesc>
+        <x-wr-calname></x-wr-calname>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>WEVRTF@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-WEVRTF</pentabarf:event-slug>
+            <pentabarf:title>Opening Session</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T090000</dtstart>
+            <dtend>20220924T091500</dtend>
+            <duration>0.01500</duration>
+            <summary>Opening Session</summary>
+            <description>Video: https://youtu.be/D6sdCD5FhDs</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/WEVRTF/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>PQSJBK@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-PQSJBK</pentabarf:event-slug>
+            <pentabarf:title>KEYNOTE: What am I doing?</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T091500</dtstart>
+            <dtend>20220924T101500</dtend>
+            <duration>1.00000</duration>
+            <summary>KEYNOTE: What am I doing?</summary>
+            <description>That’s a question and an experience shared by other professionals whose craft is also sometimes difficult and technically puzzling - for example, chefs or opera singers.
+
+But while chefs rarely ask “what is cooking?”, and opera singers rarely ask “what is singing?”, programmers are forever raising the question: “what is programming?”
+
+What am doing, as a programmer? What is the nature of my craft?
+
+Video: https://youtu.be/gjutf_Af9HQ</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Keynote</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/PQSJBK/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Daniele Procida</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>H8ZHTY@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-H8ZHTY</pentabarf:event-slug>
+            <pentabarf:title>A Python-Based Methodology for Solving Sustainability Problems with Data Science</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T104500</dtstart>
+            <dtend>20220924T112000</dtend>
+            <duration>0.03500</duration>
+            <summary>A Python-Based Methodology for Solving Sustainability Problems with Data Science</summary>
+            <description>How can we solve sustainability problems through data?
+
+AI, Data Science, and Analytics brought immense advantages to many businesses. However, there seems to be a gap concerning sustainability, in which decision-making is not yet benefitting as much as it could from these technologies.
+
+This talk takes a deep dive into this topic and how Python can help us bridge the gap by being a one-stop shop for all kinds of tools required to approach these problems. We propose a simple 4-step data science methodology: Geospatial Indexing, Feature Engineering, Predictive Scoring, and Score Optimization.
+
+We will dive into the specificities of each one of these steps and go through their requirements, dependencies and applications. Afterward, we will move to the deployment of solutions and how they translate into tangible impact on several issues with four case studies. 
+
+This methodology has been successfully used in different Data Science competitions, including the winning solution for the World Data League, which gathers the best data scientists to solve social impact challenges.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/H8ZHTY/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Diogo Valente Polónia</attendee>
+            
+            <attendee>João Afonso Pereira</attendee>
+            
+            <attendee>Patrícia Rocha</attendee>
+            
+            <attendee>João Matos</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>ETRAXR@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-ETRAXR</pentabarf:event-slug>
+            <pentabarf:title>How to become a FastAPI Expert</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T112000</dtstart>
+            <dtend>20220924T115500</dtend>
+            <duration>0.03500</duration>
+            <summary>How to become a FastAPI Expert</summary>
+            <description>FastAPI is a relatively new web framework that has been growing a lot lately. We&#x27;ll go through the features, and things that make the framework great, and understand why its popularity has been growing so fast.
+
+We&#x27;ll go through the history of the framework, and understand why it was created.
+What was missing in the world that made FastAPI not only a new web framework, but the missing piece in the Python World.
+
+Furthermore, we&#x27;ll see how I went from a newbie to a FastAPI expert, and how you can become one as well.
+No matter how much experience you are, this talk will still be useful to you if you&#x27;re interested in helping our community.
+
+Program:
+- Self-introduction (1 min)
+- Overview of the session (1 min)
+- Motivation (1 min)
+- Introduction to FastAPI and features (5 min)
+- Explain why FastAPI was created (3 min)
+- Share my history with the framework (6 min)
+   - How I find out about FastAPI (3 min)
+   - My first issues and my first PR (1 min)
+   - First job offer to work with FastAPI (1 min)
+   - The creation of the discord server, and my daily routine (1 min)
+- Share how I went deeper into the ecosystem (5 min)
+   - First contributions to Uvicorn (1 min)
+   - Receive the invite to become a member of encode (1 min)
+   - The first steps on Starlette (1 min)
+   - Assume a bit more of responsibility naturally (2 min)
+- Summary (2 min)
+
+Video: https://youtu.be/ULhX7761GAY</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/ETRAXR/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Marcelo Trylesinski</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>DY77WF@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-DY77WF</pentabarf:event-slug>
+            <pentabarf:title>Building a Handwritten Text Detection API for Medical Charts</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T115500</dtstart>
+            <dtend>20220924T123000</dtend>
+            <duration>0.03500</duration>
+            <summary>Building a Handwritten Text Detection API for Medical Charts</summary>
+            <description>Talk Description: 
+
+                                            Introduction
+We will discuss on the importance of detecting handwritten text in medical charts with some examples. 
+               
+                                                Basics
+We will mainly discuss about Object detection frameworks and go brief on Faster RCNN framework, how we implemented it using Detectron. We will then deploy the model through FastAPI.
+
+                                             Methodology
+We will go over through whole Data Cycle of Model. It includes curating, annotating and training the dataset and modelling it and then packaging it into an API.
+
+In the end we will talk about the results and takeaway from the project.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/DY77WF/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Prashant Nigam</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>RTA7MU@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-RTA7MU</pentabarf:event-slug>
+            <pentabarf:title>Automating mundane activities using Python</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T140500</dtstart>
+            <dtend>20220924T143500</dtend>
+            <duration>0.03000</duration>
+            <summary>Automating mundane activities using Python</summary>
+            <description>Do you like sending 200 emails, checking for appointments on a website every 15 minutes or copying a lot of files? No? Thought so! That’s why in this talk you will learn how to automate all of these tasks and more using the magical powers of Python.
+
+Any automation task can be broadly categorised into three stages - task specification, repetition and notification. We will walk through each of these stages with examples of pragmatic use-cases. On the way we will also discuss suitable Python tools to tackle the respective problems — from interacting with user-interfaces using Selenium, to creating cron jobs for scheduling tasks and finally sending notifications via bots to messaging apps.
+
+This will give you all the tools you need to delegate repetitive work to machines, so that you can focus on achieving the Zen you always wanted in your life.
+
+Video: https://youtu.be/S_5dl3RvdCQ</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/RTA7MU/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Ashmi Banerjee</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>ZYPFGA@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-ZYPFGA</pentabarf:event-slug>
+            <pentabarf:title>Connecting those thoughts: Personal knowledge management with Python</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T144500</dtstart>
+            <dtend>20220924T151500</dtend>
+            <duration>0.03000</duration>
+            <summary>Connecting those thoughts: Personal knowledge management with Python</summary>
+            <description>Software has emerged in the last few years, such as Roam Research and Obsidian.md, for writing notes in a highly-connected format. These apps can display notes in an extensive knowledge graph and have enabled a new wave of personal knowledge management (PKM) for the digital age. This talk provides an introduction to personal knowledge management and shows how I used Python to improve my learning through my Obsidiantools package.
+
+During my MPhil programme in Health Data Science at the University of Cambridge in 2021-22, I wrote all my notes as markdown files through Obsidian.md. I developed the Obsidiantools package for analysing Obsidian.md vaults, in order to improve my Obsidian workflows and analyse my notes via the Python data science stack, NLP packages and NetworkX. Within 3 months, I had written over 65k words in 250+ notes and used network analysis through the Python data stack to improve my strategy for studying.
+
+Connected notes even go back hundreds of years in an analogue format, through the use of index cards and Zettelkasten systems. In a more modern form, digital note vaults are at the intersection of NLP and network analysis, so there are data science challenges to tackle in those domains (Roam Research even offers a $150k prize for one of those challenges, in case you are tempted).
+
+Talk structure:
+- Introduction to personal knowledge management (PKM)
+- My MPhil notes as connected notes
+- The Obsidiantools package
+- Data science challenges and wrap-up</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/ZYPFGA/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Mark Farragher</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>BC97YZ@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-BC97YZ</pentabarf:event-slug>
+            <pentabarf:title>Text to … vectors? How feature engineering works in natural language processing</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T154500</dtstart>
+            <dtend>20220924T162000</dtend>
+            <duration>0.03500</duration>
+            <summary>Text to … vectors? How feature engineering works in natural language processing</summary>
+            <description>Do you have an interest in starting your own natural language processing project, but feel overwhelmed by all the talk of attention-based models and text embeddings? Would you like to understand how you can transform a set of texts into features for a model? In this talk, I&#x27;ll give you a practical demonstration of how meaningful features are created from text data, going from the simplest approaches and working up to cutting edge techniques such as BERT. I’ll demonstrate how to do this using some of the most popular Python packages for NLP, including scikit-learn, nltk and gensim. At each step, we&#x27;ll discuss why each technique works, what meaning it extracts from the text and what it leaves behind, and the advantages and disadvantages of using each.
+
+Video: https://youtu.be/nxLY0GGw5U0</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/BC97YZ/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Jodie Burchell</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>VSHP3V@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-VSHP3V</pentabarf:event-slug>
+            <pentabarf:title>Use my n-point checklist to become exponentially happier with your Python project</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T162000</dtstart>
+            <dtend>20220924T165500</dtend>
+            <duration>0.03500</duration>
+            <summary>Use my n-point checklist to become exponentially happier with your Python project</summary>
+            <description>Video: https://youtu.be/CWQLryJ037g</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/VSHP3V/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Max Kahan</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>CQURNZ@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-CQURNZ</pentabarf:event-slug>
+            <pentabarf:title>Why &quot;Hello World&quot; is a Massive Operation - From Python code to Stack Virtual Machine</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T165500</dtstart>
+            <dtend>20220924T172500</dtend>
+            <duration>0.03000</duration>
+            <summary>Why &quot;Hello World&quot; is a Massive Operation - From Python code to Stack Virtual Machine</summary>
+            <description>Python is a widely-used programming language thanks to its simple code syntax, but this convenience is brought by the hard work of the compiler. Among the many implementations (like PyPy and JPython), we will look at the most widely used CPython implementation. The talk will look at the compilation steps, and examine how the resulting bytecode will be executed in the Python virtual machine. Before a simple string is displayed on a terminal, CPython processes code performs complicated tasks from lexical analysis, parsing, compilation, and to evaluation loop. Even executing a simple program like print(“Hello world”) requires this laborious process performed instantly on the computer. By understanding the execution pipeline, we can identify execution bottlenecks to improve code performance.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/CQURNZ/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Richard Rowland</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>RJZQQY@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-RJZQQY</pentabarf:event-slug>
+            <pentabarf:title>Lightning Talks</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T173000</dtstart>
+            <dtend>20220924T181500</dtend>
+            <duration>0.04500</duration>
+            <summary>Lightning Talks</summary>
+            <description>Video: https://youtu.be/-CAGHKyqg4U</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/RJZQQY/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>NLHXPL@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-NLHXPL</pentabarf:event-slug>
+            <pentabarf:title>Closing Session</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T181500</dtstart>
+            <dtend>20220924T183000</dtend>
+            <duration>0.01500</duration>
+            <summary>Closing Session</summary>
+            <description>Video: https://youtu.be/aeHVHW0YjAA</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/NLHXPL/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>AZ9GSQ@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-AZ9GSQ</pentabarf:event-slug>
+            <pentabarf:title>** Sunset Party ** sponsored by Issuu</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T183000</dtstart>
+            <dtend>20220924T200000</dtend>
+            <duration>1.03000</duration>
+            <summary>** Sunset Party ** sponsored by Issuu</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/AZ9GSQ/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>TUZZMY@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-TUZZMY</pentabarf:event-slug>
+            <pentabarf:title>Introduction to Data Analysis Using Pandas</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T104500</dtstart>
+            <dtend>20220924T113500</dtend>
+            <duration>0.05000</duration>
+            <summary>Introduction to Data Analysis Using Pandas</summary>
+            <description>This tutorial is for anyone with basic knowledge of Python and an interest in learning how to analyze data in Python. We will be working with Jupyter Notebooks, so attendees should familiarize themselves with the interface (i.e., know how to run/edit a cell) beforehand.
+
+#### Section 1: Getting Started With Pandas
+We will begin by introducing the `Series`, `DataFrame`, and `Index` classes, which are the basic building blocks of the pandas library, and showing how to work with them. By the end of this section, you will be able to create DataFrames and perform operations on them to inspect and filter the data.
+
+#### Section 2: Data Wrangling
+To prepare our data for analysis, we need to perform data wrangling. In this section, we will learn how to clean and reformat data (e.g. renaming columns, fixing data type mismatches), restructure/reshape it, and enrich it (e.g. discretizing columns, calculating aggregations, combining data sources).
+
+We will take breaks for exercises throughout and all solutions, slides, and notebooks will be provided.
+
+#### Environment Setup
+Follow the setup instructions [here](https://github.com/stefmolin/pandas-workshop#setup-instructions) to get your environment up and running before the session.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/TUZZMY/</url>
+            <location>Workshops</location>
+            
+            <attendee>Stefanie Molin</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>CG3EXY@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-CG3EXY</pentabarf:event-slug>
+            <pentabarf:title>Training, Deploying, and Running a ML model using Python and Snowpark</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T114000</dtstart>
+            <dtend>20220924T123000</dtend>
+            <duration>0.05000</duration>
+            <summary>Training, Deploying, and Running a ML model using Python and Snowpark</summary>
+            <description>In this session, we will train a Linear Regression model to predict future ROI (Return On Investment) of variable advertising spend budgets across multiple channels including search, video, social media, and email using Snowpark for Python and scikit-learn. By the end of the session, you will have an interactive web application deployed visualizing the ROI of different allocated advertising spend budgets. 
+
+During this hands-on session, we will:
+
+- Set up your favorite IDE (e.g. Jupyter, VSCode) for Snowpark and ML
+- Analyze data and perform data engineering tasks using Snowpark DataFrames 
+- Use open-source Python libraries from a curated Anaconda channel with near-zero maintenance or overhead
+- Deploy ML model training code to Snowflake using Python Stored Procedures
+- Create and register Python User-Defined Functions (UDFs) for inference
+- Create Streamlit web application that uses the UDF for real-time prediction</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/CG3EXY/</url>
+            <location>Workshops</location>
+            
+            <attendee>Dash</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>JJGSCK@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-JJGSCK</pentabarf:event-slug>
+            <pentabarf:title>Bulletproof Python – Property-Based Testing with Hypothesis</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T140500</dtstart>
+            <dtend>20220924T145500</dtend>
+            <duration>0.05000</duration>
+            <summary>Bulletproof Python – Property-Based Testing with Hypothesis</summary>
+            <description>Do you find yourself working through pages of copied and pasted tests to accommodate a simple code change? Does your software frequently break in unexpected ways despite your testing efforts? Don’t despair! Property-based testing could be your way out of that mess. Rather than working harder and writing more test code, property-based testing forces you to work smarter and test more code with fewer tests.
+
+Traditional tests are example-based. They require the developer to come up with arbitrary inputs and check a system’s behavior against explicit outputs. More often than not, developers only think of inputs that are handled correctly by their code, thus leaving bugs hidden. Property-based tests generate the inputs for you and in many cases they’re more likely to find invalid inputs than humans. The difficulty lies in formulating these test cases.
+
+After this workshop you’ll be comfortable with property-based testing using Hypothesis. You’ll have experience requesting appropriate test data from Hypothesis and in writing tests for common and more advanced properties. At work, your co-workers will be impressed by your unbreakable code ;)
+
+Participants are expected to have basic familiarity with unit testing and a testing framework. Provided code examples use pytest.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/JJGSCK/</url>
+            <location>Workshops</location>
+            
+            <attendee>Michael Seifert</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>YDHJTF@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-YDHJTF</pentabarf:event-slug>
+            <pentabarf:title>Building and Optimizing a Multiclass Text Classifier using Keras</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T154500</dtstart>
+            <dtend>20220924T163500</dtend>
+            <duration>0.05000</duration>
+            <summary>Building and Optimizing a Multiclass Text Classifier using Keras</summary>
+            <description>Natural Language Processing (NLP) is one of the most exciting fields in Machine Learning and AI. In this beginner-friendly workshop, I will introduce Keras as a Python library for applying NLP techniques on a multi-label emotion classification dataset and present how to use it to build a deep learning classifier. Besides, I will also compare and demonstrate how applying NLP techniques improve the predictability of a model and then, tune a neural network using Keras Tuner to boost the overall model performance. The complete agenda is as outlined below:
+1. Introduction to Tokenization
+- Keras tokenizer
+- Padding and Truncating
+2. Introduction to Neural Network and brief overviews of
+- Fully Connected Layer
+- Embedding Layer
+- Dropout Layer
+- Long Short Term Memory (LSTM)
+3. Model Training
+- Early Stopping
+- Checkpoints and Callbacks
+- Model Compilation
+4. Model Evaluation
+- Training and Validation Loss
+- Reading a Multi-class Classification Report
+- Confusion Matrix
+5. Model Improvement
+- Cleaning and Normalizing Text Data
+- Model Compiling Strategy
+- Data Usage Strategy
+- Optimizing ANN hyperparameters using Keras Tuner
+
+This workshop focuses more on using Keras for NLP, multi-class model evaluation, and model optimization using Keras Tuner than on building ANNs from scratch, however, the basic building blocks will be revised during the session.
+
+Resources Available at: https://github.com/royn5618/Talks_Resources/tree/main/PyConPortugal2022</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/YDHJTF/</url>
+            <location>Workshops</location>
+            
+            <attendee>Nabanita Roy</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>SYBHXG@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-SYBHXG</pentabarf:event-slug>
+            <pentabarf:title>Picking What to Watch Next - build a recommendation system</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20220924T164000</dtstart>
+            <dtend>20220924T173000</dtend>
+            <duration>0.05000</duration>
+            <summary>Picking What to Watch Next - build a recommendation system</summary>
+            <description>In this workshop, we will use MovieLens Datasets to build a very basic recommendation engine. The model will be KNN Item-Based, meaning based on show information, it suggests users who have watched X show a Y show which is similar to that one. While doing it, we will do data transformation with Pandas and Scipy, and train the model with Scikit-learn.
+
+**For whom is your Workshop**
+Data Scientist or developers who have no experience in building a recommendation engine and is curious how it can be done. The model we built is in no way good enough to be deployed as a product but would be a very good first model to learn from and get the idea of how machine learning can be used in finding correlations between items.
+
+**Short Format of your Workshop**
+Overview-5 min, Lecture - 20 mins, Hands-on training - 30 mins, Closing - 5 mins
+
+**Workshop Agenda**
+Overview-5 min
+
+In this session, we will go through the workshop structure, introduce the steps that we take and the tools that we will be using in the workshop.
+
+Lecture - 20 mins
+
+In this session, through slides and presentation, we will go through some knowledge about recommendation engines, what models are available in the market and how they work. We will discuss their advantages and disadvantages and the fundamental theories that work behind the scenes. This will include the model that we are going to build and the more complicated ones that are more commonly used in business.
+
+Hands-on training - 30 mins
+
+At the start of this session, we will have a look at the project skeleton and look at the functions that we will implement in this workshop. (5 mins)
+
+Then we will work on the part that transforms the data into a format that is ready to be trained with the KNN model. (10mins)
+
+Afterwards, we will work on the part that train the KNN model. Here we will run some experiments and play with different parameters, for example, different similarity metrics, in training. (10 mins)
+
+Finally, we will test our recommender in the CLI. (5mins)
+
+Bonus: we will test our recommender in the browser with PyScript
+
+Closing - 5 mins
+
+In this session, we will wrap up what we learned and suggest further learning materials to those who may want to study further in this topic.
+
+**What is required from attendees**
+A computer with a stable internet connection; Python 3.9 or above and poetry installed; An opened mind and ready to learn something new
+
+**What Attendees will Learn**
+By the end of the workshop, you will have been built your first recommendation engine. You will be given enough information about how to build a better one and where to study further in you are inspired to be an expert in this field.
+
+**Course Benefits**
+You will have learned a new skill set that may assist you in your next data science project. You will be inspired to study further to be able to build a better recommendation engine or do your own research on related topics.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//pyconpt2022/talk/SYBHXG/</url>
+            <location>Workshops</location>
+            
+            <attendee>Cheuk Ting Ho</attendee>
+            
+        </vevent>
+        
+    </vcalendar>
+</iCalendar>
